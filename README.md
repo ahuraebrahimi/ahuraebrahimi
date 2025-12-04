@@ -1,106 +1,179 @@
-<!-- ====================================== -->
-<!--        AHURA E EBRAHIMI – ULTIMATE README        -->
-<!-- ====================================== -->
+<!-- ====================================================== -->
+<!-- 🔥 AHURA EBRAHIMI — PROFESSIONAL GITHUB README 🔥 -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE" width="100%" alt="Ahura Code Banner"/>
+  <img src="BANNER_IMAGE" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi there, I’m <span style="color:#E63946;">Ahura Ebrahimi</span></h1>
-<h3 align="center">Full-Stack Developer • Game Developer • Mobile & Web Creator • Founder of AhuraCode.ir</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#ff3c3c;">Ahura Ebrahimi</span></h1>
+<h3 align="center">Full-Stack Developer • Game Developer • App Creator • Founder of AhuraCode.ir</h3>
 
 <p align="center">
-  <img src="YOUR-PROFILE-IMAGE" width="160" style="border-radius:50%; border:4px solid #E63946;" alt="Ahura Profile"/>
-</p>
-
-<p align="center">
-  <a href="https://www.ahuracode.ir">🌐 Website</a> •
-  <a href="mailto:ahuracodes@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/ahura-ebrahimi-923948383/">💼 LinkedIn</a>
+  <img src="PROFILE_IMAGE" width="150" style="border-radius:50%; border:4px solid #ff3c3c;" />
 </p>
 
 ---
 
-## 🎉 My Mission  
-I believe every project—whether it’s a website, app or game—should be **sleek, performant and tailored**. At AhuraCode.ir, I bring ideas to life with clean code, modern design & smart architecture.
+# 🚀 About Me
+
+Hi! I'm **Ahura**, a passionate programmer who builds:
+
+- ⚡ Modern Websites  
+- ⚡ Android Apps  
+- ⚡ 2D Games  
+- ⚡ Custom WordPress Themes  
+- ⚡ Fast & Secure Backend Systems  
+
+My brand **AhuraCode.ir** focuses on delivering **clean code + premium UI + high performance**.
 
 ---
 
-## 🧠 Tech Stack  
+# 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,django,androidstudio,wordpress,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,bootstrap,django,androidstudio,wordpress,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📂 Projects & Portfolio  
-Here are some of my standout works:
+# 🧩 Featured Projects
 
-| Project | Description | Screenshot |
-|--------|-------------|------------|
-| **Shalil Leather Gift Store** | A red-themed e-commerce site built end-to-end. | ![Screenshot](LINK_TO_SITE_IMAGE_1) |
-| **Snake Game** | A classic snake game developed with Python/Pygame. | ![Screenshot](LINK_TO_PROJECT_IMAGE_2) |
-| **Rubik Cube App** | Android application solving & visualising Rubik’s Cube. | ![Screenshot](LINK_TO_PROJECT_IMAGE_3) |
+<div align="center">
 
-*More projects available on my GitHub & website.*
+<table>
+<tr>
+<td align="center" width="33%">
+  
+### 🟥 Shalil Leather Store  
+<img src="PROJECT_IMAGE_1" width="100%" style="border-radius: 15px;" />
+<p>Modern red-theme e-commerce website</p>
+
+</td>
+<td align="center" width="33%">
+  
+### 🟦 Snake Game  
+<img src="PROJECT_IMAGE_2" width="100%" style="border-radius: 15px;" />
+<p>Python + Pygame classic retro game</p>
+
+</td>
+<td align="center" width="33%">
+
+### 🟩 Rubik Cube App  
+<img src="PROJECT_IMAGE_3" width="100%" style="border-radius: 15px;" />
+<p>Android app for cube solving</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📜 Certifications & Awards  
-- 🎓 **CS50X – Harvard University** — Completed with honours.  
-- 🥇 **Front-End Web Development – Starcoach** — Certificate: FrontendDevelopment.pdf  
-- 🧪 **Python Programming – Iran Digital** — Certificate: PythonDev.pdf  
-- 🕹️ **Game Design with Scratch & GameMaker – Iran Scratch Academy**  
-- 🤖 **Mobile App Development – App Inventor & Kodular**  
+# 🏅 Certifications (Card Style)
 
-> ![Certificate](LINK_TO_CERT_IMAGE_1)  
-> ![Certificate](LINK_TO_CERT_IMAGE_2)
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="CERT_IMAGE_1" width="100%" style="border-radius:15px;" /><br>
+<b>CS50 — Harvard University</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_2" width="100%" style="border-radius:15px;" /><br>
+<b>Python Development — Iran Digital</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_3" width="100%" style="border-radius:15px;" /><br>
+<b>Front-End Web Dev — Starcoach</b>
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<img src="CERT_IMAGE_4" width="100%" style="border-radius:15px;" /><br>
+<b>Scratch & Game Design</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_5" width="100%" style="border-radius:15px;" /><br>
+<b>App Inventor & Android Dev</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_6" width="100%" style="border-radius:15px;" /><br>
+<b>Kodular App Development</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics  
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Collaborate & Connect  
-I’m open for:
-- Freelance & Contract Projects  
-- Collaboration on Open-Source  
-- Mentorship & Training Sessions  
-- Game Jams & Hackathons  
+# 🔥 Cool Developer GIFs
 
-Let’s build something amazing together!  
-📩 Reach out: ahuracodes@gmail.com
-
----
-
-## 🧭 Future Goals  
-- 🚀 Launch 3 full mobile apps in 2026  
-- 🔧 Contribute 10+ open-source libraries / tools  
-- 🌍 Create an online course on “Advanced Web Performance”  
-- 🎮 Develop a cross-platform game with Unity/Unreal  
-
----
-
-## 🎬 Visual Fun  
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy4/giphy.gif" width="250" />
 </p>
 
 ---
 
-## 📝 Final Note  
-Thanks for dropping by — if you enjoyed what you saw, feel free to ⭐ star my repositories and reach out anytime.  
-Let’s code the future together!  
-*— Ahura*
+# 🎯 Goals for 2025-2026
+
+- 🚀 Publish 3 Android apps  
+- 🧵 Create 5 open-source tools  
+- 🎮 Release a full 2D indie game  
+- 🌐 Build 10 premium websites  
+- 🎓 Launch my first online course  
+
+---
+
+# 🛠️ Dev Tools I Love
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,ps,pr" />
+</p>
+
+---
+
+# 🧊 Fun Zone
+
+### Random Dev Quote  
+> “First, solve the problem. Then, write the code.”
+
+### Random GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" />
+</p>
+
+---
+
+# 📬 Contact
+
+- 🌐 Website: https://www.ahuracode.ir  
+- 📧 Email: ahuracodes@gmail.com  
+- 💼 LinkedIn: Ahura Ebrahimi  
+- 🧊 Discord: Add your username  
+
+---
+
+<p align="center"><b>Thanks for visiting! ⭐ Don’t forget to star the repos you like!</b></p>
 
