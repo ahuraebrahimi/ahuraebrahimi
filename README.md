@@ -105,6 +105,28 @@ Through **AhuraCode.ir**, I work on:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahuraebrahimi&theme=tokyonight&count_private=true" width="400" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahuraebrahimi&theme=tokyonight&langs_count=10" width="400" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahuraebrahimi&theme=tokyonight&count_private=true" width="380" />
+  
+  <!-- Repos per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahuraebrahimi&theme=tokyonight&langs_count=10" width="380" />
+</p>
+
+<p align="center">
+  <!-- Activity / Streak Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahuraebrahimi&theme=react-dark&hide_border=true" width="760" />
+</p>
+
+<p align="center">
+  <!-- Extra Badges -->
+  ![Followers](https://img.shields.io/github/followers/ahuraebrahimi?style=social)
+  ![Stars](https://img.shields.io/github/stars/ahuraebrahimi?style=social)
+  ![Public Repos](https://img.shields.io/github/public-repo-count/ahuraebrahimi?color=1abc9c&style=for-the-badge)
+</p>
+
 
 ## 🎬 Developer GIFs
 
