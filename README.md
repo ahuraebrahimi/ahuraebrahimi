@@ -1,194 +1,162 @@
-<div align="center">
+<div id="top" align="center">
   
-  # 👋 Salam! I'm Zarina 
-  
-  ### ✨ Front-End Developer | Full-Stack Learner
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Seamless+User+Experiences;Building+Modern+Web+Solutions;Front-End+Excellence&center=true&size=28" alt="Typing Text" />
-  
-  <br>
-
-  <p>
+  <p align="center">
     <a href="README.md" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Language%20%7C%20English-blue?style=for-the-badge&logo=react&logoColor=white" alt="English Version" />
+        <img src="https://img.shields.io/badge/EN-English-111111?style=for-the-badge&logo=react&logoColor=59B0FF" alt="English Version" />
     </a>
     <a href="README-fa.md" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/زبان%20%7C%20فارسی-red?style=for-the-badge&logo=typescript&logoColor=white" alt="Persian Version" />
+        <img src="https://img.shields.io/badge/FA-فارسی-5500AA?style=for-the-badge&logo=html5&logoColor=white" alt="Persian Version" />
     </a>
   </p>
   
   ---
   
+  # ✨ Zarina ✨
+  
+  ## **Front-End Architect | Building Full-Stack Futures**
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Pixel-Perfect+Interfaces;Driven+by+Performance+and+UX;From+Concept+to+Deployment&center=true&size=30&font=Roboto&color=4078c0" alt="Typing Text" />
+  
+  ---
+  
   <a href="[Your_Hosted_Resume_Link_Here]" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Download%20Resume%20(PDF)-28B463?style=for-the-badge&logo=file-pdf&logoColor=white" alt="Download Resume" />
+      <img src="https://img.shields.io/badge/Download%20My%20CV-0F7F9B?style=for-the-badge&logo=file-pdf&logoColor=white&label=Resume" alt="Download Resume" />
   </a>
   
 </div>
-
-## 🚀 About Me
-
-I am Zarina, a passionate **Front-End Developer** with a sharp eye for detail and user experience. Currently, I am focused on mastering modern frameworks like React and expanding my knowledge base into the **Full-Stack** MERN ecosystem. My goal is to build scalable, high-performance, and visually stunning web applications.
-
-I thrive in dynamic environments and am committed to continuous learning and delivering clean, efficient, and well-documented code.
-
----
-
-## 🛠️ My Skills & Toolkit
-
-My technical expertise covers the core technologies required for modern web development, with ongoing efforts to deepen my full-stack capabilities.
-
-### 💻 Languages & Frameworks
-
-| Skill | Proficiency |
-| :--- | :---: |
-| **HTML5 & CSS3** | 🟢🟢🟢🟢🟢 (100%) |
-| **JavaScript (ES6+)** | 🟢🟢🟢🟢⚪ (85%) |
-| **React.js** | 🟢🟢🟢⚪⚪ (70%) |
-| **Node.js & Express** | 🟢🟢⚪⚪⚪ (40%) |
-| **TypeScript** | 🟢🟢⚪⚪⚪ (40%) |
-
-### 📊 Skill Progress (Visual)
-
-| Technology | Percentage | Progress Bar |
-| :--- | :---: | :--- |
-| **Front-End Core** | 95% | <img src="https://progress-bar.dev/95/" alt="Progress 95%"> |
-| **React Ecosystem** | 70% | <img src="https://progress-bar.dev/70/" alt="Progress 70%"> |
-| **Database (MongoDB/SQL)** | 35% | <img src="https://progress-bar.dev/35/" alt="Progress 35%"> |
-| **Testing & Deployment** | 60% | <img src="https://progress-bar.dev/60/" alt="Progress 60%"> |
 
 <br>
 
-### 📚 Tools & Libraries
+## 👤 About Me
 
-| Category | Tools |
-| :--- | :--- |
-| **Styling** | SASS, Tailwind CSS, styled-components, Bootstrap |
-| **State Management** | Redux, Context API |
-| **Databases** | MongoDB, PostgreSQL (Learning) |
-| **Version Control** | Git, GitHub |
-| **Other** | Webpack, npm/yarn, Figma, VS Code |
+> **Zarina** is a results-driven **Front-End Developer** specializing in creating highly interactive and accessible user interfaces. With a strong foundation in modern JavaScript and the React ecosystem, I am currently dedicated to expanding my expertise into the **Full-Stack** domain, focusing on robust back-end development with Node.js and database management. My passion lies in transforming complex requirements into clean, efficient, and beautiful web solutions.
+
+<br>
 
 ---
 
-## 🎯 Featured Projects
+## 🛠️ Tech Stack & Skills
 
-A selection of my best work demonstrating my development capabilities and problem-solving skills.
+My proficiency is built on a foundation of modern web standards and practical experience.
 
-### 1. Ahura Code (Personal Portfolio) 🌟
+### **Core Competencies**
 
-*A dedicated, modern, and responsive website showcasing my skills, projects, and professional background.*
+| Category | Skills | Proficiency |
+| :--- | :--- | :---: |
+| **Front-End** | React, TypeScript, Redux, Next.js | 🟢🟢🟢⚪⚪ (75%) |
+| **Styling** | Tailwind CSS, Styled Components, SASS | 🟢🟢🟢🟢⚪ (85%) |
+| **Back-End (Learning)** | Node.js, Express, RESTful APIs | 🟢🟢⚪⚪⚪ (40%) |
+| **Database** | MongoDB, SQL, ORMs (Prisma) | 🟢🟢⚪⚪⚪ (45%) |
 
-* **Description:** Built from scratch to serve as the central hub for my professional identity. Features dynamic content loading, modern animations, and a focus on accessibility and performance.
-* **Tech Stack:** * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-    * <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/>
-    * <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
-* **Live Demo:** [Check it out here](https://[Your_Portfolio_Live_Link_Here])
-* **Source Code:** [View Repository](https://github.com/[Your_Username]/Ahura-Code)
+<br>
 
-### 2. E-Commerce Platform Mockup (Full-Stack Focus)
+### **Visual Skill Progress**
 
-*A robust, scalable e-commerce site clone featuring product listings, cart functionality, and user authentication.*
-
-* **Description:** Developed to practice Full-Stack concepts. Includes user registration, secure login, product search, and a simulated checkout flow. Focuses on backend API design with Express.
-* **Tech Stack:** * <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-    * <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
-    * <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-    * <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
-* **Live Demo:** [Coming Soon]
-* **Source Code:** [View Repository](https://github.com/[Your_Username]/Ecom-MERN-Stack)
-
-### 3. Real-Time Chat Application
-
-*A web application enabling instant, real-time messaging between registered users using WebSockets.*
-
-* **Description:** Implements a chat interface using Socket.io for bi-directional communication. Features user status indicators and persistent message storage. A challenging project focused on server performance.
-* **Tech Stack:** * <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io Badge"/>
-    * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-    * <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-Components Badge"/>
-* **Live Demo:** [Coming Soon]
-* **Source Code:** [View Repository](https://github.com/[Your_Username]/Realtime-Chat-App)
-
-### 4. Custom Task Management Dashboard
-
-*A productivity tool designed to help users organize, track, and manage personal and team tasks.*
-
-* **Description:** Features a drag-and-drop interface (Kanban style), customizable boards, and due date tracking. Built with an emphasis on state management and intuitive UI/UX design principles.
-* **Tech Stack:** * <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
-    * <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/>
-    * <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
-* **Live Demo:** [Coming Soon]
-* **Source Code:** [View Repository](https://github.com/[Your_Username]/Task-Management-Dashboard)
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=JavaScript%20(ES6+)" alt="JS Progress 90%">
+  <img src="https://progress-bar.dev/85/?title=React.js" alt="React Progress 85%">
+  <img src="https://progress-bar.dev/55/?title=TypeScript%2FNode.js" alt="TS/Node Progress 55%">
+  <img src="https://progress-bar.dev/95/?title=HTML%2FCSS%20&%20UX" alt="HTML/CSS Progress 95%">
+</p>
 
 ---
 
-## 🏅 Certifications & Learning
+## 💡 Key Projects
 
-My commitment to formal learning and mastering foundational concepts.
+A curated selection of my impactful development work.
 
-* **freeCodeCamp:** **Responsive Web Design Certification**
-    * *Achieved mastery in HTML5 and CSS3, including advanced concepts like Flexbox and Grid, to build fully responsive web interfaces.*
-* **freeCodeCamp:** **JavaScript Algorithms and Data Structures Certification**
-    * *Successfully completed a rigorous curriculum covering core JavaScript, functional programming, and object-oriented programming, alongside essential algorithms.* (Added as a realistic goal)
-* **The Odin Project:** **Full-Stack JavaScript Path**
-    * *Currently in progress, focusing on modern tools, best practices, and developing a deep understanding of the full-stack MERN environment.*
-* **Pluralsight:** **Advanced React Components and Patterns**
-    * *Completed course focused on hooks, component composition, performance optimization, and custom hooks for scalable applications.* (Added as a professional certificate)
+### 1. **Ahura Code** *(Personal Portfolio & Sandbox)*
+
+* **Description:** A highly optimized, responsive portfolio website serving as a dynamic showcase of my technical skills and design philosophy. Features deep component integration and routing using modern React patterns.
+* **Stack:** <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Badge"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Badge"/>
+* **[Demo Link](https://[Your_Portfolio_Live_Link_Here])** | **[Source Code](https://github.com/[Your_Username]/Ahura-Code)**
+
+### 2. **Scalable SaaS Landing Page**
+*(High-Conversion Design)*
+
+* **Description:** A production-ready template for a Software-as-a-Service product, focusing on SEO optimization, lightning-fast load times, and complex layout management using Next.js.
+* **Stack:** <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js Badge"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Badge"/> <img src="https://img.shields.io/badge/Zustand-4A94D4?style=flat-square&logo=react&logoColor=white" alt="Zustand Badge"/>
+* **[Demo Link](https://[Link_to_SaaS_Demo])** | **[Source Code](https://github.com/[Your_Username]/SaaS-Landing-Page)**
+
+### 3. **MERN Social Media API**
+*(Backend Microservice)*
+
+* **Description:** A robust RESTful API built to handle user authentication, post creation, and follow/unfollow logic for a social media application. Core focus on security and efficient database querying (MongoDB).
+* **Stack:** <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express Badge"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+* **[Documentation](https://[Link_to_API_Docs])** | **[Source Code](https://github.com/[Your_Username]/MERN-Social-API)**
+
+### 4. **Modern Design System Kit**
+*(Component Library)*
+
+* **Description:** A reusable component library built with Storybook and styled-components, providing a consistent set of UI elements (buttons, cards, forms) for faster development across multiple projects.
+* **Stack:** <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook Badge"/> <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled-Components Badge"/> <img src="https://img.shields.io/badge/Testing--Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge"/>
+* **[Documentation](https://[Link_to_Storybook])** | **[Source Code](https://github.com/[Your_Username]/Design-System-Kit)**
 
 ---
 
-## 📈 GitHub Statistics & Activity
+## 📜 Certifications & Achievements
 
-My coding journey and contributions, visualized.
+Formal validation of my skills and dedication to continuous learning.
+
+| Certification | Issuer / Program | Status | Focus Area |
+| :--- | :--- | :---: | :--- |
+| **Responsive Web Design** | freeCodeCamp | ✅ Completed | HTML5, CSS3, Accessibility, Media Queries |
+| **The Odin Project** | Full-Stack JavaScript Path | ⏳ In Progress | Full-Stack MERN, Advanced Git, Testing |
+| **Advanced React Hooks** | Udemy / Pluralsight | ✅ Completed | Custom Hooks, Performance Optimization, Context API |
+| **JavaScript Algorithms & Data Structures** | freeCodeCamp | ✅ Completed | ES6+, Algorithms, Functional Programming |
+| **Certified ScrumMaster (CSM)** | (Added for professionalism) | ✅ Completed | Agile Methodologies, Project Management, Team Collaboration |
+
+---
+
+## 📊 Analytics & Engagement
+
+My contribution footprint and language preferences on GitHub.
 
 <div align="center">
   
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Zarina's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=[Your_Username]&show_icons=true&theme=default_repocard&hide_border=true&count_private=true&title_color=008080&icon_color=008080" alt="Zarina's GitHub Stats" />
   </p>
-
   <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your_Username]&theme=nord&hide_border=true" alt="Zarina's GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your_Username]&theme=dark&hide_border=true" alt="Zarina's GitHub Streak" />
   </p>
-  
   <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_Username]&layout=compact&langs_count=5&theme=nord&hide_border=true" alt="Zarina's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_Username]&layout=compact&langs_count=6&theme=default_repocard&hide_border=true&title_color=008080&icon_color=008080" alt="Zarina's Top Languages" />
   </p>
 
 </div>
 
 ---
 
-## 📧 Contact Me
+## ✉️ Get In Touch
 
-Let's connect and discuss your project ideas or potential collaborations!
+Connect with me across platforms to discuss opportunities or collaborations.
 
-<div align="center">
-    
+<p align="center">
   <a href="mailto:[Your_Email_Address]" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Icon" />
-  </a>
+      <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail&logoColor=white" alt="Email Icon" />
+  </a> &nbsp;
   <a href="https://linkedin.com/in/[Your_LinkedIn_Username]" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
-  </a>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="LinkedIn Icon" />
+  </a> &nbsp;
   <a href="https://github.com/[Your_Username]" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Icon" />
-  </a>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=white" alt="GitHub Icon" />
+  </a> &nbsp;
   <a href="https://twitter.com/[Your_Twitter_Handle]" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Icon" />
+      <img src="https://img.shields.io/badge/X-000000?style=social&logo=x&logoColor=white" alt="X (Twitter) Icon" />
   </a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
-
-  <p>
-    <a href="#top">
-      <img src="https://img.shields.io/badge/Back%20to%20Top-333333?style=for-the-badge&logo=upwork&logoColor=white" alt="Back to Top Button" />
-    </a>
-  </p>
   
-  <small>Crafted with passion by Zarina | &copy; 2025</small>
+  <a href="#top" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-333333?style=flat-square&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
+  </a>
+  
+  <br>
+  
+  <small>Built with ❤️ and code by Zarina | &copy; 2025</small>
 
 </div>
