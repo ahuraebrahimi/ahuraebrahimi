@@ -1,71 +1,126 @@
+<!--  🔥 Animated Header  -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="180" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ahura Ebrahimi</h1>
-<h3 align="center">Fullstack Developer | Game Developer | Tech Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#4e8cff">Ahura Ebrahimi</span></h1>
+<h3 align="center">Teen Developer • Frontend Specialist • Game Maker • Founder of AhuraCode.ir</h3>
 
 ---
 
+## 🌟 About Me
+
+I'm **Ahura**, a teenage developer who loves creating **websites, games, apps, and creative digital experiences**.  
+I started coding at a young age, and since then, building things has become more than a hobby —  
+it's a **lifestyle, a passion, and the way I express ideas**.
+
+On my website **AhuraCode.ir**, I share my projects, tutorials, and experiments.  
+I believe in learning by doing, and that’s why I spend hours exploring new ideas, designing new tools,  
+and improving myself every single day.
+
+I’m constantly leveling up in:
+
+🔥 **Frontend Development**  
+🔥 **Game Development**  
+🔥 **Creative UI/UX Design**  
+🔥 **JavaScript & Python Projects**  
+🔥 **Building Mini-Tools & Web Apps**
+
+---
+
+## 🚀 What I Do
+
+- 💻 Build **modern websites** with clean UI and animation  
+- 🎮 Create **2D games**, puzzles, and interactive experiences  
+- 📱 Develop **mobile-style apps** with JavaScript & visual frameworks  
+- 🎨 Design **pixel-art, icons, and UI elements**  
+- 🧩 Build **logic-based tools and browser games**  
+- 🌐 Manage and develop my own website: **AhuraCode.ir**
+
+I treat each project like a small world that I get to bring to life.
+
+---
+
+## ✨ My Vision as a Young Developer
+
+I don't want to just become a “programmer”.  
+My goal is to be a **creator**, someone who builds ideas people actually enjoy using.
+
+I love combining:
+
+- Creativity  
+- Logic  
+- Design  
+- Code  
+
+To build things that feel *alive*.
+
+My future goals:
+
+✔️ Build my own AI-powered tools  
+✔️ Create multiplayer games  
+✔️ Launch a developer YouTube channel  
+✔️ Publish open-source projects that help other beginners  
+✔️ Become one of the youngest well-known developers on GitHub  
+
+---
+
+## 🧠 Skills & Tools
+
 <p align="center">
-  <a href="https://www.ahuracode.ir" target="_blank">🌐 Website</a> •
-  <a href="mailto:ahuracodes@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/ahura-ebrahimi-923948383">💼 LinkedIn</a>
+  <img src="https://img.shields.io/badge/HTML-FF6720?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-0277BD?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
-I’m a passionate developer building **web, mobile, and gaming projects**.  
-I started with **Scratch & App Inventor**, and now I create projects in **Python, Java, HTML, CSS, JS**, and **Game Development**.  
+## 🎬 A Bit of My Journey
+
+- Started coding with **Scratch**  
+- Built hundreds of **small games and apps**  
+- Learned **HTML + CSS + JS**  
+- Developed my own site  
+- Started exploring **advanced JavaScript & Python**  
+- Got several certificates from **CS50, App Inventor, Python courses, and Game Development**  
+- Now pushing my limits on GitHub and open-source
+
+Every day is a chance to build something cooler than yesterday.
 
 ---
 
-## 💻 Skills
+## 🎮 Fun Facts About Me
 
-| Technology | Proficiency |
-|------------|------------|
-| HTML / CSS / JS | ![90%](https://progress-bar.dev/90/?title=HTML-CSS-JS) |
-| WordPress | ![90%](https://progress-bar.dev/90/?title=WordPress) |
-| Python | ![85%](https://progress-bar.dev/85/?title=Python) |
-| Game Development | ![70%](https://progress-bar.dev/70/?title=Game-Dev) |
-| Java | ![70%](https://progress-bar.dev/70/?title=Java) |
+- I break things on purpose — then fix them 😎  
+- I learn 10× faster when I’m having fun  
+- I love designing cards, buttons, and UI elements  
+- I prefer building something instead of just watching tutorials  
+- My imagination is always 200% active  
 
 ---
 
-## 🛠 Projects
-- **Snake Game** – Classic game with Python and Pygame  
-- **Rubik Cube App** – Solve and simulate cube in JavaScript  
-- **Shalil E-commerce Site** – Full website with product listings  
-- **Weather App** – Track weather in real-time  
+## 🚀 My Mission
 
-Check out more projects on [My GitHub](https://github.com/ahuraebrahimi).
+> "To become the kind of developer I dreamed about seeing when I started."
 
----
-
-## 🎓 Certifications
-- CS50 Harvard University  
-- Frontend Development – Starcoach  
-- Python Development – Iran Digital  
-- Scratch Game Development – Iran Scratch  
-- App Inventor Mobile Apps – Iran Scratch  
-- Game Maker Game Development – Iran Scratch  
+And I'm just getting started.  
+The best version of me is still loading… **█▒▒▒▒▒▒ 10%** 😉
 
 ---
 
-## 🌟 Fun Facts
-- Completed Projects: 0  
-- Satisfied Clients: 0  
-- Awards Won: 0  
-- ☕ Coffee Cups: 0  
+## 🌐 Connect with Me
 
----
-
-## 📌 Contact Me
-Feel free to reach out via [Email](mailto:ahuracodes@gmail.com) or visit my [Website](https://www.ahuracode.ir) for collaborations or freelance projects.
+<p align="center">
+  <a href="https://www.ahuracode.ir"><img src="https://img.shields.io/badge/Website-4e8cff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:ahuracodes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ahuraebrahimi"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Code Animation"/>
+  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="260" />
 </p>
