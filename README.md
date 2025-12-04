@@ -1,8 +1,8 @@
 <!-- ============================================================ -->
-<!--                          HEADER                              -->
+<!--                       HEADER                                  -->
 <!-- ============================================================ -->
-<h1 align="center">Hi 👋, I'm Ahura</h1>
-<h3 align="center">A Passionate Teen Developer & Founder of AhuraCode</h3>
+<h1 align="center">Hi 👋, I'm Ahura Ebrahimi</h1>
+<h3 align="center">Front-end Developer | Game & App Enthusiast | Founder of AhuraCode</h3>
 
 <p align="center">
   <a href="https://www.ahuracode.ir/" target="_blank">
@@ -13,107 +13,147 @@
 ---
 
 <!-- ============================================================ -->
-<!--                         ABOUT ME                              -->
+<!--                        ABOUT ME                               -->
 <!-- ============================================================ -->
 ## About Me
 
-I am a **teenage full-stack developer** and the founder of **AhuraCode**, a small web development & design brand.  
-My passion lies in building **modern, responsive, and interactive websites** that are **SEO optimized** and provide **real value** to clients.
+Hello! I’m **Ahura Ebrahimi**, a passionate **teen front-end developer** and founder of **AhuraCode**.  
+I started my coding journey with visual tools like **Scratch** and **App Inventor**, and now I focus on **web and mobile projects**.
 
-At AhuraCode, I combine my coding skills with creative design to deliver **real-world projects**, not just exercises.  
-I focus on **clean, maintainable code** and **user-friendly interfaces**, helping businesses and individuals establish a strong online presence.
+My main skills include **HTML, CSS, JavaScript** for web development, **Python** and **Java** for general programming, and I love creating games with **Pygame** and **Game Maker**.
 
-**What I love:**
-- Designing **beautiful and functional websites**
-- Implementing **interactive UI/UX features**
-- Learning new **web technologies and frameworks**
-- Sharing my knowledge with the community
+- **Education:** Student  
+- **Website:** [www.ahuracode.ir](https://www.ahuracode.ir)  
+- **Email:** [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)  
+- **Phone:** +98 904 685 5918  
+- **LinkedIn:** [ahura-ebrahimi](https://www.linkedin.com/in/ahura-ebrahimi-923948383)  
 
 ---
 
 <!-- ============================================================ -->
-<!--                        SKILLS                               -->
+<!--                        SKILLS                                 -->
 <!-- ============================================================ -->
-## 🛠 Skills & Technologies
+## 🛠 Skills
+
+**Front-end Development:**
+- HTML, CSS, JavaScript ✅ 90%  
+- WordPress ✅ 90%  
+
+**Programming Languages:**
+- Python 🐍 85%  
+- Java ☕ 70%  
+
+**Game Development:**
+- Pygame / Game Maker 🎮 70%  
 
 <p align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img alt="SEO" src="https://img.shields.io/badge/SEO-FC0?style=for-the-badge&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
 
 <!-- ============================================================ -->
-<!--                       PROJECTS                                -->
+<!--                     PROJECTS                                  -->
 <!-- ============================================================ -->
 ## 💻 Projects
 
 ### 1. [ChronoFit Smartwatch Landing Page](https://github.com/ahuraebrahimi/chronoFit)
-A fully responsive landing page for a smartwatch product.  
-**Technologies:** HTML, CSS, Flexbox, JS  
+A fully responsive landing page built with **HTML, CSS, and JS**, showcasing a smartwatch product.
 
 ### 2. [Playing Cards Page](https://github.com/ahuraebrahimi/playing-cards)
-An interactive playing cards webpage demonstrating advanced CSS flexbox layout.  
-**Technologies:** HTML, CSS  
+Interactive playing cards webpage demonstrating **advanced CSS flexbox layouts**.
 
-### 3. [Other Projects]
-- Custom portfolio websites
-- SEO optimized landing pages
-- Web apps built with vanilla JS and React
+### 3. Game & App Projects
+- **Snake Game** 🐍 (Python, Pygame)  
+- **Rubik Cube App** 📱 (App Inventor / Kodular)  
+- **Shalil Shop Website** 🌐 (HTML, CSS, JS, WordPress)  
+- **Weather App** ☁️ (HTML, CSS, JS)  
 
 ---
 
 <!-- ============================================================ -->
-<!--                     SERVICES                                 -->
+<!--                      SERVICES                                 -->
 <!-- ============================================================ -->
 ## 🛠 Services (AhuraCode)
 
-- **Website Design & Development:** Custom websites with responsive layouts  
-- **SEO Optimization:** Make your website rank higher on search engines  
-- **Web Support & Maintenance:** Ongoing support for clients  
-- **CMS & WordPress Development:** Easy-to-manage websites  
-- **UI/UX Design:** Attractive and user-friendly interfaces
+- **Web Development:** HTML, CSS, JS  
+- **Mobile App Development:** App Inventor, Kodular  
+- **Game Development:** Pygame, Game Maker  
+- **Python Programming:** Tools, scripts, and small apps  
+- **WordPress Sites:** Design and management  
+- **Java Development:** Cross-platform apps  
 
 ---
 
 <!-- ============================================================ -->
-<!--                        CONTACT                                 -->
+<!--                      CERTIFICATES                              -->
+<!-- ============================================================ -->
+## 🎓 Certificates
+
+- **CS50** - Harvard University  
+- **Front-end Development** - Starcoach  
+- **Python Course** - Iran Digital  
+- **Scratch Game Development** - Iran Scratch  
+- **App Inventor Development** - Iran Scratch  
+- **Game Maker Development** - Iran Scratch  
+
+---
+
+<!-- ============================================================ -->
+<!--                      PACKAGES & COURSES                        -->
+<!-- ============================================================ -->
+## 📦 Packages & Courses
+
+**Packages:**
+- Basic: 3,000,000 IRR - Single page responsive website  
+- Professional: 7,000,000 IRR - Multi-page website, 1 month support  
+- Custom: Negotiable - Games or apps with backend  
+
+**Courses:**
+- Python 🐍: 2,500,000 IRR - Intro + fun projects  
+- Web Design 🌐: 3,800,000 IRR - HTML, CSS, JS basics  
+- Scratch 🎨: 1,500,000 IRR - Block-based programming  
+- Game Maker 🎮: 2,000,000 IRR - 2D game design  
+- App Inventor 📱: 1,900,000 IRR - Android apps without coding  
+- CS50 Guide: 7,000,000 IRR - Full Harvard CS50 support  
+
+---
+
+<!-- ============================================================ -->
+<!--                       CONTACT                                   -->
 <!-- ============================================================ -->
 ## 📫 Contact Me
 
-You can reach me here:
-
-- 🌐 Website: [AhuraCode.ir](https://www.ahuracode.ir/)
-- 📧 Email: [contact@ahuracode.ir](mailto:contact@ahuracode.ir)
-- 💬 GitHub: [@ahuraebrahimi](https://github.com/ahuraebrahimi)
-- 📱 Telegram: [@ahuracode](https://t.me/ahuracode)
+- Website: [www.ahuracode.ir](https://www.ahuracode.ir)  
+- Email: [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)  
+- Phone: +98 904 685 5918  
+- LinkedIn: [ahura-ebrahimi](https://www.linkedin.com/in/ahura-ebrahimi-923948383)  
 
 ---
 
 <!-- ============================================================ -->
-<!--                      SOCIAL MEDIA                               -->
+<!--                       SOCIAL                                     -->
 <!-- ============================================================ -->
 ## 🌐 Social Profiles
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahuracode)
 
 ---
 
 <!-- ============================================================ -->
-<!--                        ANIMATIONS                               -->
+<!--                       ANIMATION                                   -->
 <!-- ============================================================ -->
 <style>
-/* Glowing text animation for headers */
+/* Glowing animation for headers */
 h1, h2, h3 {
-  color: #3b82f6;
   text-align: center;
+  color: #3b82f6;
   animation: glow 1.5s ease-in-out infinite alternate;
 }
 
