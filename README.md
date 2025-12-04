@@ -100,20 +100,19 @@ Through **AhuraCode.ir**, I work on:
 
 ---
 
-## 📊 GitHub Stats & Badges
+## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Followers Badge -->
-  ![GitHub followers](https://img.shields.io/github/followers/ahuraebrahimi?style=social)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=tokyonight" width="49%" />
   
-  <!-- Public Repos Badge -->
-  ![GitHub repo count](https://img.shields.io/github/repo-count/ahuraebrahimi?style=for-the-badge&color=1abc9c)
-  
-  <!-- Top Languages Badge -->
-  ![Top Languages](https://img.shields.io/github/languages/top/ahuraebrahimi?style=for-the-badge&color=2c3e50)
-  
-  <!-- Stars Badge -->
-  ![GitHub stars](https://img.shields.io/github/stars/ahuraebrahimi?style=social)
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 
