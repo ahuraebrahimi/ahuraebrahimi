@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px" alt="Animated Neon Header Line">
+  <img src="https://media.giphy.com/media/L0z9fOGq05qWk/giphy.gif" width="100%" height="5px" alt="Animated Header Line">
 </div>
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="25%" align="center">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Waving Hand GIF">
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="120px" alt="Waving Hand GIF">
       </td>
-      <td width="75%" align="left">
-        <h1 style="color:#3b82f6;">Ahura Ebrahimi ✨</h1>
-        <h3>Front-End Focused Developer | Game Creator | Founder of <a href="https://www.ahuracode.ir" style="color:#10b981;">AhuraCode.ir</a></h3>
-        <p>I craft creative, interactive, and visually appealing web experiences while also building games and mobile apps. My mission: Turn ideas into reality with code and design.</p>
+      <td width="70%" align="left">
+        <h1 style="color:#3b82f6;">Ahura Ebrahimi - The Creative Developer ✨</h1>
+        <h3 style="color:#10b981;">Front-End & Web Developer, Game Creator, Founder of <a href="https://www.ahuracode.ir" style="color:#FFC107;">AhuraCode.ir</a></h3>
+        <p>I craft beautiful, interactive, and performant web experiences, blending design and code to deliver solutions people love.</p>
         <p align="left">
           <a href="https://www.linkedin.com/in/ahura-ebrahimi-923948383" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
           <a href="mailto:ahuracodes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
@@ -24,55 +24,65 @@
 
 ---
 
-## 💻 About Me
+## 🌟 About Me & Core Focus
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Q81NCSmQ24F7i/giphy.gif" width="50px" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="50px" alt="Coding GIF">
 </div>
 
-Hi! I'm **Ahura Ebrahimi**, a passionate developer and game creator.  
-Started with visual tools like **Scratch** and **App Inventor**, now focused on **Front-End web development**, games, and mobile apps. I love **Python**, **Java**, and modern web technologies.
-
-- **Website:** [AhuraCode.ir](https://www.ahuracode.ir)  
-- **Email:** ahuracodes@gmail.com  
-- **Phone:** 09046855918  
+Hi, I am **Ahura Ebrahimi**, a passionate **Front-End Web Developer** and game creator. I began my journey with **Scratch** and **App Inventor**, now focusing on **web applications**, **mobile apps**, and **games**. My favorite languages are **Python** and **Java**, and I enjoy crafting interactive projects with **HTML, CSS, JS**.
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml3c253OW1yMTdjOW1sMG0yMDF1YjZtZHJ1M2t0NGV6Y29hNzIzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufj0pD9pXQ2iWw0/giphy.gif" width="70px" alt="Toolbox GIF">
+  <img src="https://media.giphy.com/media/3o7TKP2bGzFqf1TLhi/giphy.gif" width="70px" alt="Tools GIF">
 </div>
 
 | Category | High Proficiency | Advanced Proficiency |
 | :--- | :--- | :--- |
-| **Web** | HTML, CSS, JS, WordPress | React, Next.js, Tailwind |
-| **Backend** | Python | Java, Node.js |
-| **Game/Mobile** | Unity | Game Maker, App Inventor, Kodular |
+| **Web Development** | <img src="https://skillicons.dev/icons?i=html,css,js,wordpress" width="30"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" width="30"/> |
+| **Backend/Logic** | <img src="https://skillicons.dev/icons?i=python" width="30"/> | <img src="https://skillicons.dev/icons?i=java,nodejs" width="30"/> |
+| **Game/Mobile** | Unity, Pygame | App Inventor, Kodular, Game Maker |
 | **Tools** | Git, GitHub, VSCode, Docker, Figma | - |
 
 ---
 
-## 🌟 Achievements
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKWl2wiYyVfW5Yk/giphy.gif" width="50px" alt="Award GIF">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="50px" alt="Projects GIF">
 </div>
 
-| Metric | Value |
-| :--- | :--- |
-| **Projects Completed** | 103+ |
-| **Satisfied Clients** | 35 |
-| **Awards** | 10 |
-| **CS50 Harvard** | Certified |
+| Project | Stack | Key Skills | Status |
+| :--- | :--- | :--- | :--- |
+| **Shalyl E-commerce** | Web Dev, WordPress | Responsive Design, Full-Stack Logic | Live |
+| **Rubik's Cube Solver App** | App Inventor / Kodular | Mobile UX/UI, Logic | Live (Myket) |
+| **Classic Snake Game** | Python / JS | Game Loop, Algorithm Design | Live |
+| **Weather App** | Web App / API | API Integration, Data Parsing | Live |
+
+---
+
+## 🏆 Achievements & Metrics
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="50px" alt="Award GIF">
+</div>
+
+| Metric | Value | Description |
+| :--- | :--- | :--- |
+| **Projects Completed** | 103+ | Delivered high-quality real-world projects |
+| **Satisfied Clients** | 35 | Positive feedback & repeat collaborations |
+| **Awards** | 10 | Recognized in Scratch, App Inventor, Game Maker |
+| **CS50 Harvard** | Certified | Fundamental CS mastery |
 
 ---
 
 ## 🎓 Certifications
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVkMjZwdm13MGR5b2NpbzVqN3d6Y3V2Y3Q4ZWd6OXNkd3M2NHR2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaHjWHyE0sE/giphy.gif" width="50px" alt="Book GIF">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="50px" alt="Cert GIF">
 </div>
 
 <p align="center">
@@ -85,44 +95,21 @@ Started with visual tools like **Scratch** and **App Inventor**, now focused on 
 
 ---
 
-## 💼 Featured Projects
+## 💬 Contact & Motto
+
+> "Not just a programmer — a **creator** building ideas people enjoy."
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGF5ZnFwOG95MXQ4em8xN3EwM3N3NGw1YjhmM2Z1MnQ5MHBzY29vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/27FwaH364v3i5n2E3j/giphy.gif" width="50px" alt="Project GIF">
-</div>
-
-| Project | Tech Stack | Focus |
-| :--- | :--- | :--- |
-| **Shalyl E-commerce** | WordPress, Web Dev | Responsive, Full-Stack, E-commerce Logic |
-| **Rubik's Cube Solver App** | App Inventor, Kodular | Mobile UI, Logic Implementation |
-| **Snake Game** | Python, JS | Game Loop, Algorithm Design |
-| **Weather App** | Web API | Data Parsing, Frontend Display |
-
----
-
-## 🚀 Services & Contact
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaHjWHyE0sE/giphy.gif" width="40px" alt="Idea GIF">
-</div>
-
-| Service | Focus |
-| :--- | :--- |
-| **Web Development** | HTML, CSS, JS, Professional Sites |
-| **Game Development** | Game Maker, Pygame |
-| **Python Tools** | Automation & Game/App Projects |
-| **Consultation** | CS50 Harvard Guidance, Project Support |
-
-> "My goal is to be a **creator** who builds ideas people enjoy using."
-
-<div align="center">
-  <img src="https://media.giphy.com/media/kFgz3YmRjJ8g/giphy.gif" width="100px" alt="Commit GIF">
+  <img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" width="100px" alt="Contact GIF">
 </div>
 
 <p align="center">
-  Reach out for projects, consultation, or collabs!
+  Reach out for project collaborations or consulting!  
+  <br>
+  <a href="mailto:ahuracodes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.ahuracode.ir"><img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="5px" alt="Animated Neon Footer Line">
+  <img src="https://media.giphy.com/media/L0z9fOGq05qWk/giphy.gif" width="100%" height="5px" alt="Animated Footer Line">
 </div>
