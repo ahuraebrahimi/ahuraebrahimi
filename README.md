@@ -103,18 +103,9 @@ Through **AhuraCode.ir**, I work on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=tokyonight" width="49%" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=tokyonight" width="49%" />
 </p>
-
 
 
 ---
