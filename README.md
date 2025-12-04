@@ -1,15 +1,15 @@
 <div id="top" align="center">
   
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=Zarina%20—%20Full-Stack%20Trainee%20&fontSize=50&fontColor=ffffff&color=000033&animation=twinkling" alt="Zarina's Animated Developer Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=Zarina%20—%20Full-Stack%20Trainee%20&fontSize=50&fontColor=FFD700&color=4B0082&animation=twinkling" alt="Zarina's Animated Developer Banner" />
   </p>
 
   <p>
-    <img src="https://github.com/USERNAME.png" width="140" style="border-radius:50%; box-shadow:0px 0px 40px #000044; border: 5px solid #4B0082;" alt="Zarina's Profile Picture" />
+    <img src="https://github.com/USERNAME.png" width="140" style="border-radius:50%; box-shadow:0px 0px 40px #4B0082; border: 5px solid #FFD700;" alt="Zarina's Profile Picture" />
   </p>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=**%20%20Custom%20Web%20Solutions%20%7C%20%20Pixel-Perfect%20UX%20%20**;%20%20%20%20I%20Speak%20JavaScript%20Fluently%20%20%20%20;%20%20%20%20Building%20the%20Future%20One%20Commit%20at%20a%20Time%20%20%20" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=**%20%20Custom%20Web%20Solutions%20%7C%20%20Pixel-Perfect%20UX%20%20**;%20%20%20%20I%20Speak%20JavaScript%20Fluently%20%20%20%20;%20%20%20%20Building%20the%20Future%20One%20Commit%20at%20a%20Time%20%20%20" alt="Typing animation" />
   </p>
   
   <br>
@@ -18,25 +18,25 @@
 ---
 <br>
 
-## 👤 **About Me & Goals**
+## 👤 **About Me & Focus**
 
 <div align="center">
     <table width="95%">
         <tr>
             <td width="25%" valign="top" align="center">
-                <img src="https://via.placeholder.com/220/1A1A1A/FFFFFF?text=Zarina+Portrait" alt="Zarina's Profile Portrait" style="border-radius:50%; width:180px; height:180px; object-fit:cover; border: 4px solid #6A5ACD;">
+                <img src="https://via.placeholder.com/220/1A1A1A/FFFFFF?text=Zarina+Portrait" alt="Zarina's Profile Portrait" style="border-radius:50%; width:180px; height:180px; object-fit:cover; border: 4px solid #4B0082;">
             </td>
             <td width="75%" valign="top" align="left">
                 <p style="font-size:1.1em; line-height:1.6;">
-                    **سلام! من ZARINA هستم، توسعه‌دهنده Front-End با تمرکز قوی بر کدهای تمیز و معماری مقیاس‌پذیر.** <br>
-                    **هدف نهایی من تبدیل شدن به یک معمار Full-Stack است.**
+                    **Hello! I am ZARINA, a dedicated Front-End Developer with a strong focus on clean, scalable code and intuitive user experiences.** <br>
+                    **My ultimate career goal is to transition into a robust Full-Stack Architect role.**
                 </p>
                 <table width="100%">
                     <thead>
                         <tr>
-                            <th align="center">**🌐 وب‌سایت**</th>
-                            <th align="center">**📧 ایمیل**</th>
-                            <th align="center">**👔 لینکدین**</th>
+                            <th align="center">**🌐 Website**</th>
+                            <th align="center">**📧 Email**</th>
+                            <th align="center">**👔 LinkedIn**</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -55,10 +55,12 @@
 ### 🎯 **Current Goals & Focus**
 
 <div align="center">
-    | **هدف اصلی** | **پیشرفت** | **وضعیت** |
-    | :---: | :---: | :---: |
-    | **یادگیری React/Redux** | <img src="https://progress-bar.dev/45/" alt="Progress 45%"> | **در حال کار** 🛠️ |
-    | **پروژه Full-Stack (MERN)** | <img src="https://progress-bar.dev/20/" alt="Progress 20%"> | **برنامه‌ریزی** 📝 |
+    * **React/Redux Mastery:** Actively learning core concepts and hooks.
+        <img src="https://progress-bar.dev/45/?title=React" alt="Progress 45%">
+    * **Full-Stack Project:** Planning and initial setup for a MERN stack application.
+        <img src="https://progress-bar.dev/20/?title=MERN" alt="Progress 20%">
+    * **Code Refactoring:** Ensuring all older projects meet current Clean Code standards.
+        <img src="https://progress-bar.dev/60/?title=Refactoring" alt="Progress 60%">
 </div>
 
 <br>
@@ -183,11 +185,11 @@
 ## 📈 **Performance & Activity**
 
 <div align="center">
-    <img src="https://activity-graph.vercel.app/graph?username=USERNAME&theme=github&hide_border=true&point=FF4500&line=4B0082" alt="GitHub Activity Graph" style="width: 80%; border: 1px solid #6A5ACD; border-radius: 5px;">
+    <img src="https://activity-graph.vercel.app/graph?username=USERNAME&theme=github&hide_border=true&point=FFD700&line=4B0082" alt="GitHub Activity Graph" style="width: 80%; border: 1px solid #4B0082; border-radius: 5px;">
     
     <p>
-        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=gotham&border_radius=5&title_color=6A5ACD&icon_color=4B0082" alt="GitHub Stats" />
-        <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=gotham&border_radius=5&title_color=6A5ACD&icon_color=4B0082" alt="Top Languages" />
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=gotham&border_radius=5&title_color=FFD700&icon_color=4B0082" alt="GitHub Stats" />
+        <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=gotham&border_radius=5&title_color=FFD700&icon_color=4B0082" alt="Top Languages" />
     </p>
 </div>
 
@@ -218,9 +220,8 @@
 <br>
 
 ---
-<br>
 
-<div align="center">
+<div id="footer" align="center">
   
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20Top%20%E2%96%B2-1A1A1A?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
