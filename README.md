@@ -35,7 +35,7 @@ Through **AhuraCode.ir**, I work on:
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,wordpress,appinventor,scratch,pygame,git,github,vscode,linux,figma,ps,pr" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,wordpress,git,github,vscode" />
 </p>
 
 **Skill Categories:**
@@ -47,7 +47,7 @@ Through **AhuraCode.ir**, I work on:
 | **Backend / Programming**| Python (basic backend), Java (beginner) |
 | **Mobile / Android**     | App Inventor, Kodular (Android apps) |
 | **Game Development**     | Scratch, Pygame |
-| **Dev Tools & Editors**  | Git, GitHub, VS Code, Linux basics, Figma, Photoshop, Premiere |
+| **Dev Tools & Editors**  | Git, GitHub,VS Code|
 | **Additional Skills**    | Debugging, Problem Solving, Project Planning, Version Control |
 
 ---
@@ -58,8 +58,8 @@ Through **AhuraCode.ir**, I work on:
 
 | Project | Description | Preview | Link |
 |--------|-------------|---------|------|
-| **AhuraCode.ir** | My personal portfolio & service website | <img src="PLACEHOLDER_PROJECT_IMG_AHURACODE" width="260" style="border-radius:12px;"> | [Visit](https://www.ahuracode.ir) |
-| **Shalil.com** | E-commerce site for leather gift sets | <img src="PLACEHOLDER_PROJECT_IMG_SHALIL" width="260" style="border-radius:12px;"> | [Visit](https://www.shalil.com) |
+| **AhuraCode.ir** | My personal portfolio & service website | <img src="https://uploadkon.ir/uploads/fbcd04_25Screenshot-2025-12-04-192725.png" width="260" style="border-radius:12px;"> | [Visit](https://www.ahuracode.ir) |
+| **Shalyl.com** | E-commerce site for leather gift sets | <img src="[PLACEHOLDER_PROJECT_IMG_SHALIL](https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png)" width="260" style="border-radius:12px;"> | [Visit](https://www.shalyl.com) |
 | **GitHub Template** | Website template I uploaded on GitHub | <img src="PLACEHOLDER_PROJECT_IMG_TEMPLATE" width="260" style="border-radius:12px;"> | [View on GitHub](PLACEHOLDER_GITHUB_TEMPLATE_LINK) |
 
 </div>
