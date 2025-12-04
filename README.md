@@ -1,86 +1,64 @@
 <div id="top" align="center">
   
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Zarina%20—%20Front--End%20Architect%20%E2%9A%99%EF%B8%8F&fontSize=50&fontColor=ffffff&color=0D0D0D&animation=twinkling" alt="Zarina's Minimalist Developer Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=200&section=header&text=Zarina%20—%20Full-Stack%20Trainee%20&fontSize=50&fontColor=ffffff&color=000033&animation=twinkling" alt="Zarina's Animated Developer Banner" />
   </p>
 
   <p>
-    <img src="https://github.com/USERNAME.png" width="130" style="border-radius:50%; box-shadow:0px 0px 30px #333333; border: 4px solid #A9A9A9;" alt="Zarina's Profile Picture" />
+    <img src="https://github.com/USERNAME.png" width="140" style="border-radius:50%; box-shadow:0px 0px 40px #000044; border: 5px solid #4B0082;" alt="Zarina's Profile Picture" />
   </p>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=750&lines=**%20Crafting%20Clean%20Code%20%7C%20Minimalist%20Design%20**;%20%20%20Performance%20%26%20Scalability%20Driven%20%20%20;%20%20%20%20Future%20Full--Stack%20Architect%20%20%20" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=800&lines=**%20%20Custom%20Web%20Solutions%20%7C%20%20Pixel-Perfect%20UX%20%20**;%20%20%20%20I%20Speak%20JavaScript%20Fluently%20%20%20%20;%20%20%20%20Building%20the%20Future%20One%20Commit%20at%20a%20Time%20%20%20" alt="Typing animation" />
   </p>
   
   <br>
-
-  <p>
-    <a href="Ahura_Ebrahimi_Resume.pdf" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Download%20CV-333333?style=plastic&logo=file-pdf&logoColor=FFD700&labelColor=000000" alt="Download Resume" />
-    </a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="README.md" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/EN-English-4CAF50?style=plastic" alt="English Version" />
-    </a>
-    <a href="README-fa.md" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/FA-فارسی-FF69B4?style=plastic" alt="Persian Version" />
-    </a>
-  </p>
-  
 </div>
 
 ---
 <br>
 
-## 👤 **About Me: The Minimalist Coder**
+## 👤 **About Me & Goals**
 
 <div align="center">
     <table width="95%">
         <tr>
-            <td width="20%" valign="top" align="center">
-                <img src="https://via.placeholder.com/220/0D0D0D/A9A9A9?text=Zarina+Dev" alt="Zarina's Portrait" style="border-radius:50%; width:180px; height:180px; object-fit:cover; border: 3px solid #666666;">
+            <td width="25%" valign="top" align="center">
+                <img src="https://via.placeholder.com/220/1A1A1A/FFFFFF?text=Zarina+Portrait" alt="Zarina's Profile Portrait" style="border-radius:50%; width:180px; height:180px; object-fit:cover; border: 4px solid #6A5ACD;">
             </td>
-            <td width="80%" valign="top" align="left">
+            <td width="75%" valign="top" align="left">
                 <p style="font-size:1.1em; line-height:1.6;">
-                    **I am ZARINA, a dedicated Front-End Developer with a strong focus on clean code, performance, and intuitive user experiences.** <br><br>
-                    **My mission is to architect scalable solutions.** I specialize in modern JavaScript and declarative frameworks, while actively expanding into **Full-Stack MERN** architecture to build end-to-end applications.
+                    **سلام! من ZARINA هستم، توسعه‌دهنده Front-End با تمرکز قوی بر کدهای تمیز و معماری مقیاس‌پذیر.** <br>
+                    **هدف نهایی من تبدیل شدن به یک معمار Full-Stack است.**
                 </p>
-                <br>
-                * 🌐 **Website:** [www.ahuracode.ir](https://www.ahuracode.ir)
-                * 📧 **Email:** [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)
-                * 👔 **LinkedIn:** [Ahura Ebrahimi](https://linkedin.com/in/ahura-ebrahimi-923948383)
+                <table width="100%">
+                    <thead>
+                        <tr>
+                            <th align="center">**🌐 وب‌سایت**</th>
+                            <th align="center">**📧 ایمیل**</th>
+                            <th align="center">**👔 لینکدین**</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td align="center"><a href="https://www.ahuracode.ir">www.ahuracode.ir</a></td>
+                            <td align="center"><a href="mailto:ahuracodes@gmail.com">ahuracodes@gmail.com</a></td>
+                            <td align="center"><a href="https://linkedin.com/in/ahura-ebrahimi-923948383">Ahura Ebrahimi</a></td>
+                        </tr>
+                    </tbody>
+                </table>
             </td>
         </tr>
     </table>
 </div>
 
-<br>
-
----
-<br>
-
-## 🛠️ **Technical Mastery (Skills)**
-
-### 💎 **Core Technologies**
-
-<p align="center">
-    <img src="https://img.shields.io/badge/HTML5-F06529?style=plastic&logo=html5&logoColor=white&label=**Markup**" alt="HTML5 Badge"/>
-    <img src="https://img.shields.io/badge/CSS3-28A9E0?style=plastic&logo=css3&logoColor=white&label=**Styling**" alt="CSS3 Badge"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000&label=**Logic**" alt="JavaScript Badge"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white&label=**Utility**" alt="TailwindCSS Badge"/>
-    <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=plastic&logo=git&logoColor=white&label=**Version**" alt="Git/GitHub Badge"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&label=**Scripting**" alt="Python Badge"/>
-</p>
-
-### 📈 **Proficiency Levels**
+### 🎯 **Current Goals & Focus**
 
 <div align="center">
-    | **Skill Category** | **Mastery Level** | **Visual Progress** |
-    | :--- | :---: | :--- |
-    | **HTML / Semantic** | **85%** | <img src="https://progress-bar.dev/85/?title=HTML" alt="Progress 85%"> |
-    | **CSS / Layout** | **80%** | <img src="https://progress-bar.dev/80/?title=CSS" alt="Progress 80%"> |
-    | **JavaScript / Core** | **65%** | <img src="https://progress-bar.dev/65/?title=JavaScript" alt="Progress 65%"> |
-    | **TailwindCSS** | **60%** | <img src="https://progress-bar.dev/60/?title=Tailwind" alt="Progress 60%"> |
+    | **هدف اصلی** | **پیشرفت** | **وضعیت** |
+    | :---: | :---: | :---: |
+    | **یادگیری React/Redux** | <img src="https://progress-bar.dev/45/" alt="Progress 45%"> | **در حال کار** 🛠️ |
+    | **پروژه Full-Stack (MERN)** | <img src="https://progress-bar.dev/20/" alt="Progress 20%"> | **برنامه‌ریزی** 📝 |
 </div>
 
 <br>
@@ -88,36 +66,37 @@
 ---
 <br>
 
-## 🏗️ **Key Projects (Detailed Table)**
+## 🛠️ **Skill Matrix**
 
 <div align="center">
     <table width="95%">
         <thead>
             <tr>
-                <th>**Project Name**</th>
-                <th>**Core Focus**</th>
-                <th>**Key Stack**</th>
-                <th>**Links**</th>
+                <th>**Core Skill**</th>
+                <th>**Key Tools/Frameworks**</th>
+                <th>**Proficiency**</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>**Ahura Code (Portfolio)**</td>
-                <td>Front-End Architecture, Responsive Design.</td>
-                <td>HTML, CSS, JS</td>
-                <td><a href="https://github.com/USERNAME/Ahura-Code">Repo</a></td>
+                <td>**Front-End Markup**</td>
+                <td>HTML5, Semantic HTML</td>
+                <td><img src="https://progress-bar.dev/85/?color=4CAF50" alt="Progress 85%"></td>
             </tr>
             <tr>
-                <td>**Weather Snap**</td>
-                <td>API Integration, Asynchronous JavaScript.</td>
-                <td>HTML, CSS, JS (APIs)</td>
-                <td><a href="https://[Weather_Snap_Demo_Link]">Demo</a></td>
+                <td>**Styling & Design**</td>
+                <td>CSS3, **TailwindCSS**, Responsive Design</td>
+                <td><img src="https://progress-bar.dev/80/?color=FFC107" alt="Progress 80%"></td>
             </tr>
             <tr>
-                <td>**Shalil Store**</td>
-                <td>E-commerce Setup, UX Optimization.</td>
-                <td>WordPress, WooCommerce</td>
-                <td><a href="https://[Shalil_Store_Link]">Site</a></td>
+                <td>**Programming Logic**</td>
+                <td>**JavaScript**, ES6+, Python (Scripting)</td>
+                <td><img src="https://progress-bar.dev/65/?color=2196F3" alt="Progress 65%"></td>
+            </tr>
+            <tr>
+                <td>**Version Control**</td>
+                <td>**Git**, GitHub, Branching</td>
+                <td><img src="https://progress-bar.dev/75/?color=E91E63" alt="Progress 75%"></td>
             </tr>
         </tbody>
     </table>
@@ -128,13 +107,40 @@
 ---
 <br>
 
-## 📜 **Certifications & Milestones**
+## 🖼️ **My Top Creations (Projects)**
 
 <div align="center">
-    <img src="https://img.shields.io/badge/CS50-Harvard-8A2BE2?style=plastic&logo=harvard&logoColor=white" alt="CS50 Badge"/>
-    <img src="https://img.shields.io/badge/Responsive%20Design-freeCodeCamp-28A9E0?style=plastic&logo=freecodecamp&logoColor=white" alt="RWD freeCodeCamp Badge"/>
-    <img src="https://img.shields.io/badge/JS%20Algorithms-freeCodeCamp-F7DF1E?style=plastic&logo=javascript&logoColor=000" alt="JS Algorithms freeCodeCamp Badge"/>
-    <img src="https://img.shields.io/badge/The%20Odin%20Project-In%20Progress-7729E6?style=plastic&logo=html5&logoColor=white" alt="Odin Project Badge"/>
+    <table width="100%">
+        <tr>
+            <td width="33%" align="center" valign="top">
+                <a href="https://[Your_Portfolio_Live_Link]">
+                    <img src="https://via.placeholder.com/300x150/4B0082/FFFFFF?text=Ahura+Code+Portfolio" alt="Ahura Code Screenshot" style="border: 3px solid #4B0082; border-radius: 8px;">
+                </a>
+                <p>
+                    **✨ Ahura Code**<br>
+                    *Custom Front-End Architecture*
+                </p>
+            </td>
+            <td width="33%" align="center" valign="top">
+                <a href="https://[Weather_Snap_Demo_Link]">
+                    <img src="https://via.placeholder.com/300x150/008080/FFFFFF?text=Weather+Snap+API" alt="Weather Snap Screenshot" style="border: 3px solid #008080; border-radius: 8px;">
+                </a>
+                <p>
+                    **🌤️ Weather Snap**<br>
+                    *API Integration & Data Fetching*
+                </p>
+            </td>
+            <td width="33%" align="center" valign="top">
+                <a href="https://[Shalil_Store_Link]">
+                    <img src="https://via.placeholder.com/300x150/FF4500/FFFFFF?text=Shalil+Store+E--Commerce" alt="Shalil Store Screenshot" style="border: 3px solid #FF4500; border-radius: 8px;">
+                </a>
+                <p>
+                    **🛒 Shalil Store**<br>
+                    *E-commerce & UX Optimization*
+                </p>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br>
@@ -142,13 +148,46 @@
 ---
 <br>
 
-## 📊 **Performance & Engagement**
+## 📜 **My Milestones & Certifications**
 
 <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&border_radius=5&title_color=A9A9A9&icon_color=A9A9A9" alt="GitHub Stats" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&border_radius=5&title_color=A9A9A9&icon_color=A9A9A9" alt="Top Languages" />
+    <table width="95%">
+        <tr>
+            <td align="center">
+                <a href="https://www.freecodecamp.org/certification/username/responsive-web-design">
+                    <img src="https://via.placeholder.com/150x150/6A5ACD/FFFFFF?text=freeCodeCamp+RWD" alt="freeCodeCamp RWD Certificate" width="150" style="border: 2px solid #6A5ACD; border-radius: 5px;">
+                </a>
+                <p>**Responsive Web Design**</p>
+            </td>
+            <td align="center">
+                <a href="https://certificates.harvard.edu/cs50/verify/[CODE]">
+                    <img src="https://via.placeholder.com/150x150/4B0082/FFFFFF?text=Harvard+CS50" alt="Harvard CS50 Certificate" width="150" style="border: 2px solid #4B0082; border-radius: 5px;">
+                </a>
+                <p>**CS50x (Harvard)**</p>
+            </td>
+            <td align="center">
+                <a href="https://www.freecodecamp.org/certification/username/js-algorithms">
+                    <img src="https://via.placeholder.com/150x150/000033/FFFFFF?text=freeCodeCamp+JS" alt="freeCodeCamp JS Certificate" width="150" style="border: 2px solid #000033; border-radius: 5px;">
+                </a>
+                <p>**JS Algorithms**</p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+---
+<br>
+
+## 📈 **Performance & Activity**
+
+<div align="center">
+    <img src="https://activity-graph.vercel.app/graph?username=USERNAME&theme=github&hide_border=true&point=FF4500&line=4B0082" alt="GitHub Activity Graph" style="width: 80%; border: 1px solid #6A5ACD; border-radius: 5px;">
+    
     <p>
-        <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=dark&ring=A9A9A9&fire=A9A9A9" alt="GitHub Streak" />
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=gotham&border_radius=5&title_color=6A5ACD&icon_color=4B0082" alt="GitHub Stats" />
+        <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=gotham&border_radius=5&title_color=6A5ACD&icon_color=4B0082" alt="Top Languages" />
     </p>
 </div>
 
@@ -157,23 +196,23 @@
 ---
 <br>
 
-## 📞 **Connect With Me**
+## ⬇️ **Get In Touch & Download CV**
 
 <div align="center">
-    <p>
-        <a href="https://github.com/USERNAME" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white&labelColor=222222" alt="GitHub Icon" />
-        </a>
-        <a href="https://linkedin.com/in/ahura-ebrahimi-923948383" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white&labelColor=222222" alt="LinkedIn Icon" />
-        </a>
-        <a href="mailto:ahuracodes@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white&labelColor=222222" alt="Email Icon" />
-        </a>
-        <a href="https://www.ahuracode.ir" target="_blank">
-          <img src="https://img.shields.io/badge/Website-777777?style=plastic&logo=google-chrome&logoColor=white&labelColor=222222" alt="Website Icon" />
-        </a>
-    </p>
+    <table width="70%">
+        <tr>
+            <td align="center">
+                <a href="Ahura_Ebrahimi_Resume.pdf" target="_blank">
+                    <img src="https://via.placeholder.com/250x60/8B0000/FFFFFF?text=**Download+CV**" alt="Download Resume Button" style="border: 3px solid #8B0000; border-radius: 8px;">
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://linkedin.com/in/ahura-ebrahimi-923948383" target="_blank">
+                    <img src="https://via.placeholder.com/250x60/00008B/FFFFFF?text=**LinkedIn+Profile**" alt="LinkedIn Button" style="border: 3px solid #00008B; border-radius: 8px;">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br>
@@ -184,13 +223,13 @@
 <div align="center">
   
   <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top%20%E2%96%B2-333333?style=plastic&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
+    <img src="https://img.shields.io/badge/Back%20to%20Top%20%E2%96%B2-1A1A1A?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
   </a>
   
   <br><br>
   
   <p style="font-size:1.0em; color:#A9A9A9;">
-    **Built with precision and minimalism. | Zarina &copy; 2025**
+    **Built with precision. | Zarina &copy; 2025**
   </p>
 
 </div>
