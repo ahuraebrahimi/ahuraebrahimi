@@ -1,111 +1,174 @@
-!-- ========================= HEADER BANNER ========================= -->
+<!-- ========================================================= -->
+<!-- ======================== HEADER ========================== -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,4,6&text=Ahura%20Code&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,5,10&height=230&section=header&text=Ahura%20Code&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ========================= TITLE & TYPING EFFECT ========================= -->
-
+<!-- TITLE + TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=Ahura+Ebrahimi+-+Software+Developer;Web+Developer+%7C+Mobile+Developer+%7C+Game+Developer;Python+%7C+Java+Programmer;Creative+Coding+%26+Problem+Solving;Welcome+To+My+GitHub+Profile+" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A778FF&center=true&vCenter=true&width=900&lines=Ahura+Ebrahimi+%7C+Software+Developer;Web+Developer+%7C+Mobile+Developer+%7C+Game+Maker;Python+%7C+Java+Programmer;Creative+Thinker+%7C+Clean+Coder;Welcome+To+My+GitHub+Universe" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+<!-- ========================================================= -->
+<!-- ===================== ABOUT SECTION ====================== -->
+<!-- ========================================================= -->
 
-Hello, I’m **Ahura Ebrahimi**, a passionate **software developer** with experience across web, mobile and game development.  
-I started programming with visual tools like **Scratch** and **App Inventor**, and today I write real-world applications using **Python**, **Java**, and modern web technologies.
+# 👤 About Me  
 
-I enjoy turning ideas into clean, functional, and elegant software.
+I am **Ahura Ebrahimi**, a passionate **software developer** who started from visual programming tools and evolved into building real-world software using **Python**, **Java**, and modern **web technologies**.
+
+My mission is to build clean, functional, modern, and enjoyable digital experiences.
 
 ---
 
-# 🎨 Developer Snapshot
+<!-- ========================================================= -->
+<!-- ===================== PROFILE CARD ======================= -->
+<!-- ========================================================= -->
 
-```yaml
-Name: Ahura Ebrahimi
-Role: Software Developer / Programmer
-Focus: Web Development, Python Apps, Java Applications, Game Development
-Website: https://ahuracode.ir
-Email: ahuracodes@gmail.com
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" />
+</p>
 
-<!-- ========================= SKILLS ========================= -->
-🧰 Skills & Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,wordpress,linux,vscode,github,git,figma&theme=light" /> </p>
-🚀 What I Can Build
-✔ Modern & Responsive Websites
+---
 
-Using HTML, CSS, JS with clean UI/UX principles.
-✔ Mobile Applications
+<!-- ========================================================= -->
+<!-- ======================== SKILLS ========================== -->
+<!-- ========================================================= -->
 
-Creating Android apps with App Inventor / Kodular.
-✔ Games
+# 🧰 Technical Skills
 
-Using Game Maker, Pygame, Scratch-based engines.
-✔ Python Tools & Applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,wordpress,mysql,git,github,linux,vscode,figma&theme=light" />
+</p>
 
-Automation scripts, utilities, small-scale systems.
-✔ Java Applications
+### Additional Expertise  
+- Responsive UI/UX Design  
+- Clean Code Principles (SOLID / DRY / KISS)  
+- Game Development (Scratch, Game Maker, Pygame)  
+- App Inventor Mobile Development  
+- Building automation tools using Python  
+- Java desktop applications  
 
-Desktop apps, utilities, and educational projects.
-🌟 Highlights & Strengths
+---
 
-    Strong background in algorithmic problem-solving
+<!-- ========================================================= -->
+<!-- ===================== SERVICES SECTION =================== -->
+<!-- ========================================================= -->
 
-    Experience building frontend + backend structures
+# 🚀 What I Build
 
-    Ability to build complete apps from idea → production
+### 🌐 Web Development  
+Clean and fully responsive websites with modern styling.
 
-    Skilled at writing clean, maintainable code
+### 📱 Mobile Apps  
+Android applications using App Inventor & similar tools.
 
-    Passionate about creating visually smooth user experiences
+### 🎮 Games  
+Game Maker, Scratch Engine, and Python Pygame projects.
 
-📂 Featured Projects (Samples)
+### 🧪 Python Projects  
+Automation tools, utilities, scripts, and small systems.
 
-    These are examples of the kind of work I build.
+### 💻 Java Applications  
+Desktop tools, educational projects, and system utilities.
 
-🎮 Snake Game (Python)
+---
 
-A clean, responsive version of the classic snake game.
-🧩 Rubik’s Cube App
+<!-- ========================================================= -->
+<!-- ======================= BADGES =========================== -->
+<!-- ========================================================= -->
 
-A mobile app for learning or solving Rubik's Cube patterns.
-🌤 Weather App
+# 🏅 Achievements & Certifications  
 
-A minimal and modern weather application.
-🛒 Shalil Website
+<p align="left">
+  • CS50 (Harvard University)  
+  • Python Programming Certifications  
+  • Web Development Certificates  
+  • Scratch Game Development  
+  • App Inventor Mobile Development  
+  • Game Maker Advanced Course  
+</p>
 
-A full shopping website built with web technologies.
-📘 Certificates & Achievements
+---
 
-    CS50 Certification (Harvard University)
+<!-- ========================================================= -->
+<!-- ===================== FEATURED PROJECTS ================== -->
+<!-- ========================================================= -->
 
-    Python Programming Certificate
+# 📂 Featured Projects
 
-    Web Development Certificate
+> These are sample highlights from my work.
 
-    Game Development (Scratch Academy)
+### 🎮 Snake Game  
+A clean and modern version of the classic Snake game.
 
-    App Inventor Advanced Course
+### 🧩 Rubik’s Cube Application  
+A mobile learning/solving Rubik's cube tool.
 
-    Game Maker Development
+### 🌤 Weather App  
+Live weather information with clean UI.
 
-<!-- ========================= GITHUB STATS ========================= -->
-📊 GitHub Statistics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=12"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&border_radius=12"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true"/> </p>
+### 🛒 Shalil Webshop  
+A full commercial website for online shopping.
 
-    Replace USERNAME with your GitHub username.
+---
 
-📞 Contact Me
+<!-- ========================================================= -->
+<!-- ====================== STATISTICS ======================== -->
+<!-- ========================================================= -->
 
-If you want to collaborate or ask something, feel free to reach out.
+# 📊 GitHub Stats
 
-Website: https://ahuracode.ir
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&border_radius=10" />
+</p>
 
-Email: ahuracodes@gmail.com
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&bg_color=1a1a1a&color=BA68C8&line=BA68C8&point=FFFFFF&area=true&hide_border=true" />
+</p>
 
+---
 
-LinkedIn: /in/ahura-ebrahimi-923948383
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=4,6,8,10&section=footer"/> </p>
+<!-- ========================================================= -->
+<!-- ====================== EXTRA STYLE ======================= -->
+<!-- ========================================================= -->
 
+# 🌈 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,git,ps,ai,blender&theme=light" />
+</p>
+
+---
+
+# 🧠 Fun Facts About Me
+- I love creating creative digital experiences.  
+- I enjoy solving complex problems with simple code.  
+- I am constantly learning new technologies and tools.  
+- I believe design & code should work together smoothly.  
+
+---
+
+<!-- ========================================================= -->
+<!-- ======================== CONTACT ========================= -->
+<!-- ========================================================= -->
+
+# 📞 Contact Me
+
+Feel free to contact me anytime.
+
+**Website:** https://ahuracode.ir  
+**Email:** ahuracodes@gmail.com  
+**Phone:** 09046855918  
+**LinkedIn:** /in/ahura-ebrahimi-923948383  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,8,10&height=160&section=footer" />
+</p>
