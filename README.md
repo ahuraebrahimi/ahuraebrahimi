@@ -58,7 +58,7 @@ Through **AhuraCode.ir**, I work on:
 
 | Project | Description | Preview | Link |
 |--------|-------------|---------|------|
-| **AhuraCode.ir** | My personal portfolio & service website | <img src="https://uploadkon.ir/uploads/fbcd04_25Screenshot-2025-12-04-192725.png" width="260" style="border-radius:12px;"> | [Visit](https://www.ahuracode.ir) |
+| **AhuraCode.ir** | My personal portfolio & service website | <img src="https://uploadkon.ir/uploads/554104_25Screenshot-2025-12-04-192725.png" width="260" style="border-radius:12px;"> | [Visit](https://www.ahuracode.ir) |
 | **Shalyl.com** | E-commerce site for leather gift sets | <img src="https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png" width="260" style="border-radius:12px;"> | [Visit](https://www.shalyl.com) |
 | **GitHub Template** | Website template I uploaded on GitHub | <img src="https://uploadkon.ir/uploads/fbd504_25Screenshot-2025-12-04-193104.png" width="260" style="border-radius:12px;"> | [View on GitHub](https://ahuraebrahimi.github.io/website/) |
 
