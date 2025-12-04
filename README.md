@@ -1,5 +1,5 @@
 <!-- ====================================================== -->
-<!-- 🔥 AHURA EBRAHIMI — REALISTIC ULTRA‑PREMIUM GITHUB README 🔥 -->
+<!-- 🔥 AHURA EBRAHIMI — ULTRA-PREMIUM GITHUB README 🔥 -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -27,7 +27,7 @@ Through **AhuraCode.ir**, I work on:
 - ⚡ **WordPress** sites with custom themes  
 - ⚡ **Python** scripts and basic backend development  
 - ⚡ **Java** (beginner level, learning)  
-- ⚡ **Android apps with App Inventor**  
+- ⚡ **Android apps with App Inventor / Kodular**  
 - ⚡ 2D games with **Scratch & Pygame**
 
 My philosophy:  
@@ -38,19 +38,41 @@ My philosophy:
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,wordpress,appinventor,scratch,pygame,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,wordpress,appinventor,scratch,pygame,git,github,vscode,linux,figma,ps,pr" />
 </p>
 
 **Skill Categories:**
 
-| Area                 | Skills / Tools |
-|----------------------|----------------|
-| Frontend / Web       | HTML, CSS, JS, Bootstrap, Responsive Design |
-| CMS / WordPress      | Custom Themes & Plugins, Site Optimization |
-| Backend / Programming| Python (basic backend), Java (beginner) |
-| Mobile / Android     | App Inventor |
-| Game Development     | Scratch, Pygame |
-| Dev Tools            | Git, GitHub, VS Code |
+| Area                     | Skills / Tools |
+|--------------------------|----------------|
+| **Frontend / Web**       | HTML, CSS, JavaScript, Bootstrap, Responsive Design, UI/UX Basics |
+| **CMS / WordPress**      | WordPress custom themes & plugins, Site Optimization, SEO Basics |
+| **Backend / Programming**| Python (basic backend), Java (beginner) |
+| **Mobile / Android**     | App Inventor, Kodular (Android apps) |
+| **Game Development**     | Scratch, Pygame, 2D Game Logic & Design |
+| **Dev Tools & Editors**  | Git, GitHub, VS Code, Linux basics, Figma, Photoshop, Premiere |
+| **Additional Skills**    | Debugging, Problem Solving, Project Planning, Version Control |
+
+---
+
+## 🎓 Education & Learning Path
+
+- 📘 Self-taught web development: HTML, CSS, JS, Bootstrap  
+- 📘 WordPress & CMS systems customization  
+- 📘 Python & basic backend programming  
+- 📘 Java: beginner-level learning  
+- 📘 Mobile development with App Inventor & Kodular  
+- 📘 Game development with Scratch & Pygame  
+
+---
+
+## 🎨 Design Philosophy
+
+- Design first: Clean & intuitive UI  
+- Performance matters: Fast, responsive, optimized  
+- Scalable & maintainable code  
+- User-focused: Simple UX and accessibility  
+- Continuous learning & improvement  
 
 ---
 
@@ -69,46 +91,18 @@ My philosophy:
 
 ---
 
-## 🏅 Certifications & Achievements
+## 🏆 Achievements & Awards
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="30%">
-  <img src="PLACEHOLDER_CERT_1" width="200" style="border-radius:8px;"><br>
-  <b>CS50 — Harvard University</b>
-</td>
-<td align="center" width="30%">
-  <img src="PLACEHOLDER_CERT_2" width="200" style="border-radius:8px;"><br>
-  <b>Front-End Web Development — Starcoach</b>
-</td>
-<td align="center" width="30%">
-  <img src="PLACEHOLDER_CERT_3" width="200" style="border-radius:8px;"><br>
-  <b>Python Development — Iran Digital</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="30%">
-  <img src="PLACEHOLDER_CERT_4" width="200" style="border-radius:8px;"><br>
-  <b>Scratch & Game Design</b>
-</td>
-<td align="center" width="30%">
-  <img src="PLACEHOLDER_CERT_5" width="200" style="border-radius:8px;"><br>
-  <b>App Inventor / Android Development</b>
-</td>
-<td align="center" width="30%">
-  <img src="PLACEHOLDER_CERT_6" width="200" style="border-radius:8px;"><br>
-  <b>Kodular App Development</b>
-</td>
-</tr>
-</table>
-
-</div>
+- 🎖️ Completed **CS50** — Harvard University  
+- 🎖️ Front-End Web Dev — Starcoach  
+- 🎖️ Python Development — Iran Digital  
+- 🎖️ Scratch & Game Design Certificate  
+- 🎖️ App Inventor / Android Development Certificate  
+- 🎖️ Kodular App Development Certificate  
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
@@ -140,13 +134,12 @@ My philosophy:
 
 ---
 
-## 💡 Philosophy
+## 🧩 Fun / Interests
 
-- **Design first**: UI should be clean and intuitive  
-- **Performance matters**: Fast, responsive and optimized  
-- **Scalable code**: Modular, maintainable, and documented  
-- **User-focused**: Simple UX and accessibility  
-- **Continuous learning**: Stay updated with new tools & tech  
+- 🎮 Game development & retro gaming  
+- 🎨 Digital art & UI design  
+- 💻 Experimenting with new web tools  
+- 📚 Continuous learning & tech exploration  
 
 ---
 
