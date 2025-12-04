@@ -10,7 +10,7 @@
 <h3 align="center">Web Developer • Game & Mobile App Creator • Founder of AhuraCode.ir</h3>
 
 <p align="center">
-  <img src="https://uploadkon.ir/uploads/3f4f04_25Gemini-Generated-Image-3lqlmx3lqlmx3lql.png" width="160" style="border-radius:50%; border:4px solid #e63946;" alt="profile"/>
+  <img src="https://uploadkon.ir/uploads/3f4f04_25Gemini-Generated-Image-3lqlmx3lqlmx3lql.png" width="160" style="border-radius:100%; border:4px solid #e63946;" alt="profile"/>
 </p>
 
 ---
