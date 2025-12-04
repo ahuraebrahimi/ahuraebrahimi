@@ -1,224 +1,248 @@
-<!-- ========================================================= -->
-<!-- ======================== HEADER ========================== -->
-<!-- ========================================================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ahura Code - Portfolio</title>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --primary-color: #8A2BE2;
+    --secondary-color: #A778FF;
+    --bg-color: #1a1a1a;
+    --text-color: #fff;
+    --card-bg: #222;
+  }
+  * {margin:0; padding:0; box-sizing:border-box; font-family: 'Roboto', sans-serif;}
+  body {background: var(--bg-color); color: var(--text-color);}
+  a {color: inherit; text-decoration: none;}
+  img {max-width:100%; display:block;}
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ahura%20Code&fontSize=80&fontColor=ffffff&color=gradient&customColorList=2,4,9,12&animation=twinkling" />
-</p>
+  /* ===== Scroll to Top Button ===== */
+  #scrollTop {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: var(--primary-color);
+    color: #fff;
+    border:none;
+    padding:12px 16px;
+    border-radius:50%;
+    font-size:20px;
+    cursor:pointer;
+    display:none;
+    z-index:100;
+    box-shadow:0 4px 10px rgba(0,0,0,0.3);
+    transition: 0.3s;
+  }
+  #scrollTop:hover {background: var(--secondary-color);}
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A778FF&center=true&vCenter=true&width=900&lines=Hi+I%27m+Ahura+Ebrahimi;Full-Stack+Developer+%7C+Python+%2F+Java;Web+%2F+Mobile+%2F+Game+Developer;Turning+Ideas+into+Code" />
-</p>
+  /* ===== Header ===== */
+  header {
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    background: linear-gradient(135deg, #8A2BE2, #A778FF);
+  }
+  header img {width:180px; border-radius:50%; box-shadow:0 0 35px #a873ff;}
+  header h1 {font-size:3rem; margin-top:20px;}
+  .typed-text {color:#fff; font-weight:700; font-size:1.5rem; margin-top:10px;}
+  .header-btn {margin-top:20px; padding:12px 25px; background:#fff; color: var(--primary-color); font-weight:bold; border-radius:25px; transition:0.3s;}
+  .header-btn:hover {background: var(--secondary-color); color:#fff;}
 
-<p align="center">
-  <a href="https://www.ahuracode.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ahuracode.ir-8A2BE2?style=for-the-badge" />
-  </a>
-  <a href="mailto:ahuracodes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahuracodes@gmail.com-E91E63?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/ahura-ebrahimi-923948383" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahura_Ebrahimi-0077B5?style=for-the-badge" />
-  </a>
-</p>
+  /* ===== Sections ===== */
+  section {padding:80px 20px; max-width:1200px; margin:0 auto;}
+  h2 {text-align:center; font-size:2.5rem; margin-bottom:40px; color: var(--primary-color);}
 
-<br>
+  /* ===== Skills ===== */
+  .skills {display:flex; flex-wrap:wrap; justify-content:center; gap:20px;}
+  .skill {background: var(--card-bg); padding:20px; border-radius:15px; width:220px; box-shadow:0 4px 15px rgba(0,0,0,0.3);}
+  .skill h3 {margin-bottom:10px; color:var(--secondary-color);}
+  .progress-bar {height:12px; background:#333; border-radius:10px; overflow:hidden;}
+  .progress {height:100%; width:0%; background: var(--primary-color); border-radius:10px;}
 
-<!-- ========================================================= -->
-<!-- ======================== ABOUT ME ======================== -->
-<!-- ========================================================= -->
+  /* ===== Projects ===== */
+  .projects {display:flex; flex-wrap:wrap; justify-content:center; gap:25px;}
+  .project-card {background: var(--card-bg); border-radius:15px; width:250px; padding:20px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition:0.3s;}
+  .project-card:hover {transform: translateY(-10px); box-shadow:0 10px 25px rgba(0,0,0,0.5);}
+  .project-card img {width:80px; margin-bottom:15px;}
+  .project-card h4 {margin-bottom:10px; color: var(--secondary-color);}
+  .project-card p {font-size:0.9rem; color:#ccc;}
 
-<h1 align="center">🌟 About Me</h1>
+  /* ===== Certificates ===== */
+  .certificates {display:flex; flex-wrap:wrap; justify-content:center; gap:25px;}
+  .certificate-card {background: var(--card-bg); border-radius:15px; width:220px; padding:15px; text-align:center; box-shadow:0 4px 15px rgba(0,0,0,0.3); transition:0.3s;}
+  .certificate-card:hover {transform: translateY(-10px); box-shadow:0 10px 25px rgba(0,0,0,0.5);}
+  .certificate-card img {width:60px; margin-bottom:10px;}
+  .certificate-card h5 {color: var(--secondary-color); margin-bottom:5px;}
+  .certificate-card p {font-size:0.85rem; color:#ccc;}
 
-<p align="center">
-  <img src="https://github.com/USERNAME.png" width="180" style="border-radius:50%; box-shadow: 0 0 35px #a873ff;" />
-</p>
+  /* ===== Contact ===== */
+  .contact {text-align:center;}
+  .contact a {display:inline-block; margin:10px; padding:10px 20px; background: var(--primary-color); border-radius:25px; font-weight:bold; transition:0.3s;}
+  .contact a:hover {background: var(--secondary-color);}
 
-<p align="center" style="max-width:800px;">
-Hello! I'm <strong>Ahura Ebrahimi</strong>, a passionate software developer specializing in <strong>Web</strong>, <strong>Mobile</strong>, and <strong>Game Development</strong>.  
-I started with visual tools like <strong>Scratch</strong> & <strong>App Inventor</strong> and now build robust applications using <strong>Python</strong> and <strong>Java</strong>.  
-I create clean code, interactive interfaces, and digital experiences that are both functional and visually stunning.
-</p>
+</style>
+</head>
+<body>
 
-<br>
+<!-- ===== Scroll To Top Button ===== -->
+<button id="scrollTop" onclick="topFunction()">↑</button>
 
-<!-- ========================================================= -->
-<!-- ========================== SKILLS ======================== -->
-<!-- ========================================================= -->
+<!-- ===== Header ===== -->
+<header>
+  <img src="https://github.com/USERNAME.png" alt="Ahura Ebrahimi">
+  <h1>Ahura Ebrahimi</h1>
+  <div class="typed-text" id="typed"></div>
+  <a href="Ahura_Ebrahimi_Resume.pdf" download class="header-btn">Download Resume</a>
+</header>
 
-<h1 align="center">💻 Skills</h1>
+<!-- ===== Skills Section ===== -->
+<section id="skills">
+  <h2>💻 Skills</h2>
+  <div class="skills">
+    <div class="skill">
+      <h3>Web Development</h3>
+      <div class="progress-bar"><div class="progress" data-width="90%"></div></div>
+    </div>
+    <div class="skill">
+      <h3>WordPress</h3>
+      <div class="progress-bar"><div class="progress" data-width="90%"></div></div>
+    </div>
+    <div class="skill">
+      <h3>Python</h3>
+      <div class="progress-bar"><div class="progress" data-width="85%"></div></div>
+    </div>
+    <div class="skill">
+      <h3>Game Development</h3>
+      <div class="progress-bar"><div class="progress" data-width="70%"></div></div>
+    </div>
+    <div class="skill">
+      <h3>Java</h3>
+      <div class="progress-bar"><div class="progress" data-width="70%"></div></div>
+    </div>
+  </div>
+</section>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-28A9E0?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
-<img src="https://img.shields.io/badge/Pygame-4CBB17?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/App%20Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
+<!-- ===== Projects Section ===== -->
+<section id="projects">
+  <h2>📂 Projects</h2>
+  <div class="projects">
+    <div class="project-card">
+      <img src="https://img.icons8.com/color/96/000000/snake.png"/>
+      <h4>Snake Game</h4>
+      <p>Fast, smooth gameplay. Python & Pygame</p>
+    </div>
+    <div class="project-card">
+      <img src="https://img.icons8.com/color/96/000000/rubik.png"/>
+      <h4>Rubik’s Cube Solver</h4>
+      <p>Mobile learning & solver app. App Inventor</p>
+    </div>
+    <div class="project-card">
+      <img src="https://img.icons8.com/color/96/000000/cloud.png"/>
+      <h4>Weather App</h4>
+      <p>Beautiful API-powered UI. HTML, CSS, JS</p>
+    </div>
+    <div class="project-card">
+      <img src="https://img.icons8.com/color/96/000000/shopping-cart.png"/>
+      <h4>Shalil Store</h4>
+      <p>Modern eCommerce site. WordPress</p>
+    </div>
+  </div>
+</section>
 
-<br>
+<!-- ===== Certificates Section ===== -->
+<section id="certificates">
+  <h2>🎓 Certificates</h2>
+  <div class="certificates">
+    <div class="certificate-card">
+      <img src="https://img.icons8.com/color/96/000000/harvard.png"/>
+      <h5>CS50 Harvard</h5>
+      <p>Harvard University</p>
+    </div>
+    <div class="certificate-card">
+      <img src="https://img.icons8.com/color/96/000000/python.png"/>
+      <h5>Python Course</h5>
+      <p>Iran Digital</p>
+    </div>
+    <div class="certificate-card">
+      <img src="https://img.icons8.com/color/96/000000/scratch.png"/>
+      <h5>Scratch Game Dev</h5>
+      <p>Iran Scratch Academy</p>
+    </div>
+    <div class="certificate-card">
+      <img src="https://img.icons8.com/color/96/000000/android.png"/>
+      <h5>App Inventor Dev</h5>
+      <p>Iran Scratch Academy</p>
+    </div>
+    <div class="certificate-card">
+      <img src="https://img.icons8.com/color/96/000000/game-controller.png"/>
+      <h5>Game Maker Dev</h5>
+      <p>Iran Scratch Academy</p>
+    </div>
+    <div class="certificate-card">
+      <img src="https://img.icons8.com/color/96/000000/star.png"/>
+      <h5>Front-End Web Dev</h5>
+      <p>Starcoach</p>
+    </div>
+  </div>
+</section>
 
-<!-- ========================================================= -->
-<!-- ==================== FEATURED PROJECTS =================== -->
-<!-- ========================================================= -->
+<!-- ===== Contact Section ===== -->
+<section id="contact">
+  <h2>📞 Contact</h2>
+  <div class="contact">
+    <a href="mailto:ahuracodes@gmail.com">Email Me</a>
+    <a href="tel:+989046855918">Call Me</a>
+    <a href="https://linkedin.com/in/ahura-ebrahimi-923948383" target="_blank">LinkedIn</a>
+    <a href="https://www.ahuracode.ir" target="_blank">Website</a>
+  </div>
+</section>
 
-<h1 align="center">📂 Featured Projects</h1>
+<script>
+  // ===== Typed Text =====
+  const typedText = document.getElementById('typed');
+  const phrases = ["Full-Stack Developer", "Python / Java", "Web / Mobile / Game Dev", "Turning Ideas into Code"];
+  let i = 0, j = 0, currentPhrase = [], isDeleting=false;
+  function type(){
+    if(i >= phrases.length) i=0;
+    let fullPhrase = phrases[i];
+    if(!isDeleting) {
+      currentPhrase.push(fullPhrase[j]);
+      typedText.textContent = currentPhrase.join('');
+      j++;
+      if(j === fullPhrase.length){isDeleting=true; setTimeout(type,1000);} else {setTimeout(type,100);}
+    } else {
+      currentPhrase.pop();
+      typedText.textContent = currentPhrase.join('');
+      if(currentPhrase.length===0){isDeleting=false; j=0; i++; setTimeout(type,200);} else {setTimeout(type,50);}
+    }
+  }
+  type();
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/snake.png" width="80"/>
-<br>
-<strong>Snake Game</strong><br>
-Fast, smooth gameplay<br>
-<em>Python, Pygame</em>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/rubik.png" width="80"/>
-<br>
-<strong>Rubik’s Cube Solver</strong><br>
-Mobile learning & solver app<br>
-<em>App Inventor</em>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="80"/>
-<br>
-<strong>Weather App</strong><br>
-Beautiful API-powered UI<br>
-<em>HTML, CSS, JS</em>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="80"/>
-<br>
-<strong>Shalil Store</strong><br>
-Modern eCommerce site<br>
-<em>WordPress</em>
-</td>
-</tr>
-</table>
-</div>
+  // ===== Progress Bars Animation =====
+  const progressBars = document.querySelectorAll('.progress');
+  window.addEventListener('scroll',()=>{
+    progressBars.forEach(bar=>{
+      let value = bar.getAttribute('data-width');
+      let barPos = bar.getBoundingClientRect().top;
+      let screenPos = window.innerHeight/1.2;
+      if(barPos < screenPos) {bar.style.width = value;}
+    });
+  });
 
-<br>
+  // ===== Scroll to Top Button =====
+  const scrollBtn = document.getElementById("scrollTop");
+  window.onscroll = function() {
+    if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+      scrollBtn.style.display = "block";
+    } else {scrollBtn.style.display = "none";}
+  };
+  function topFunction(){window.scrollTo({top:0,behavior:'smooth'});}
+</script>
 
-<!-- ========================================================= -->
-<!-- ========================== SERVICES ===================== -->
-<!-- ========================================================= -->
-
-<h1 align="center">🚀 Services</h1>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
-<strong>Web Development</strong><br>
-Responsive websites with HTML, CSS, JS
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/android-os.png" width="60"/><br>
-<strong>Mobile Apps</strong><br>
-Android apps with App Inventor & Kodular
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/game-controller.png" width="60"/><br>
-<strong>Game Development</strong><br>
-2D games with Game Maker & Pygame
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/python.png" width="60"/><br>
-<strong>Python Automation</strong><br>
-Scripts & Tools
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/wordpress.png" width="60"/><br>
-<strong>WordPress</strong><br>
-Professional website setup
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60"/><br>
-<strong>Java Apps</strong><br>
-Cross-platform apps
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- ========================== CERTIFICATES ================= -->
-<!-- ========================================================= -->
-
-<h1 align="center">🎓 Certificates</h1>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/harvard.png" width="60"/><br>
-<strong>CS50 Harvard</strong><br>
-Harvard University
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/python.png" width="60"/><br>
-<strong>Python Course</strong><br>
-Iran Digital
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/scratch.png" width="60"/><br>
-<strong>Scratch Game Dev</strong><br>
-Iran Scratch Academy
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/android.png" width="60"/><br>
-<strong>App Inventor Dev</strong><br>
-Iran Scratch Academy
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/game-controller.png" width="60"/><br>
-<strong>Game Maker Dev</strong><br>
-Iran Scratch Academy
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/><br>
-<strong>Front-End Web Dev</strong><br>
-Starcoach
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<!-- ========================================================= -->
-<!-- ========================== CONTACT ====================== -->
-<!-- ========================================================= -->
-
-<h1 align="center">📞 Contact</h1>
-
-<p align="center">
-Reach out for collaborations or projects:
-</p>
-
-<p align="center">
-<strong>Email:</strong> [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com) |  
-<strong>Phone:</strong> +98 904 685 5918 |  
-<strong>LinkedIn:</strong> [Ahura Ebrahimi](https://linkedin.com/in/ahura-ebrahimi-923948383) |  
-<strong>Website:</strong> [ahuracode.ir](https://www.ahuracode.ir)
-</p>
-
-<br>
-
-<p align="center">
-© 2025 Ahura Code | Designed by Ahura Ebrahimi
-</p>
+</body>
+</html>
