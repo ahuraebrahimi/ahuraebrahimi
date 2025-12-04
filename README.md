@@ -1,5 +1,5 @@
 <!-- ====================================================== -->
-<!-- 🔥 AHURA EBRAHIMI — ULTRA-PREMIUM GITHUB README 🔥 -->
+<!-- 🔥 AHURA EBRAHIMI — REALISTIC GITHUB README 🔥 -->
 <!-- ====================================================== -->
 
 <p align="center">
@@ -30,9 +30,6 @@ Through **AhuraCode.ir**, I work on:
 - ⚡ **Android apps with App Inventor / Kodular**  
 - ⚡ 2D games with **Scratch & Pygame**
 
-My philosophy:  
-> “Clean code, interactive design, and continuous learning are the keys to digital creation.”
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -49,30 +46,9 @@ My philosophy:
 | **CMS / WordPress**      | WordPress custom themes & plugins, Site Optimization, SEO Basics |
 | **Backend / Programming**| Python (basic backend), Java (beginner) |
 | **Mobile / Android**     | App Inventor, Kodular (Android apps) |
-| **Game Development**     | Scratch, Pygame, 2D Game Logic & Design |
+| **Game Development**     | Scratch, Pygame |
 | **Dev Tools & Editors**  | Git, GitHub, VS Code, Linux basics, Figma, Photoshop, Premiere |
 | **Additional Skills**    | Debugging, Problem Solving, Project Planning, Version Control |
-
----
-
-## 🎓 Education & Learning Path
-
-- 📘 Self-taught web development: HTML, CSS, JS, Bootstrap  
-- 📘 WordPress & CMS systems customization  
-- 📘 Python & basic backend programming  
-- 📘 Java: beginner-level learning  
-- 📘 Mobile development with App Inventor & Kodular  
-- 📘 Game development with Scratch & Pygame  
-
----
-
-## 🎨 Design Philosophy
-
-- Design first: Clean & intuitive UI  
-- Performance matters: Fast, responsive, optimized  
-- Scalable & maintainable code  
-- User-focused: Simple UX and accessibility  
-- Continuous learning & improvement  
 
 ---
 
@@ -80,25 +56,52 @@ My philosophy:
 
 <div align="center">
 
-| Project | Description | Preview |
-|--------|-------------|---------|
-| **Shalil Leather Store** | E-commerce site for leather gift sets | <img src="PLACEHOLDER_PROJECT_IMG_SHALIL" width="260" style="border-radius:12px;"> |
-| **AhuraCode.ir** | Personal portfolio & service website | <img src="PLACEHOLDER_PROJECT_IMG_AHURACODE" width="260" style="border-radius:12px;"> |
-| **Snake Game** | Python + Pygame retro game | <img src="PLACEHOLDER_PROJECT_IMG_SNAKE" width="260" style="border-radius:12px;"> |
-| **Rubik Cube App** | Android app for cube solving | <img src="PLACEHOLDER_PROJECT_IMG_RUBIK" width="260" style="border-radius:12px;"> |
+| Project | Description | Preview | Link |
+|--------|-------------|---------|------|
+| **AhuraCode.ir** | My personal portfolio & service website | <img src="PLACEHOLDER_PROJECT_IMG_AHURACODE" width="260" style="border-radius:12px;"> | [Visit](https://www.ahuracode.ir) |
+| **Shalil.com** | E-commerce site for leather gift sets | <img src="PLACEHOLDER_PROJECT_IMG_SHALIL" width="260" style="border-radius:12px;"> | [Visit](https://www.shalil.com) |
+| **GitHub Template** | Website template I uploaded on GitHub | <img src="PLACEHOLDER_PROJECT_IMG_TEMPLATE" width="260" style="border-radius:12px;"> | [View on GitHub](PLACEHOLDER_GITHUB_TEMPLATE_LINK) |
 
 </div>
 
 ---
 
-## 🏆 Achievements & Awards
+## 🏅 Certifications (Card Style)
 
-- 🎖️ Completed **CS50** — Harvard University  
-- 🎖️ Front-End Web Dev — Starcoach  
-- 🎖️ Python Development — Iran Digital  
-- 🎖️ Scratch & Game Design Certificate  
-- 🎖️ App Inventor / Android Development Certificate  
-- 🎖️ Kodular App Development Certificate  
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="PLACEHOLDER_CERT_1" width="200" style="border-radius:8px;"><br>
+  <b>CS50 — Harvard University</b>
+</td>
+<td align="center" width="33%">
+  <img src="PLACEHOLDER_CERT_2" width="200" style="border-radius:8px;"><br>
+  <b>Front-End Web Development — Starcoach</b>
+</td>
+<td align="center" width="33%">
+  <img src="PLACEHOLDER_CERT_3" width="200" style="border-radius:8px;"><br>
+  <b>Python Development — Iran Digital</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img src="PLACEHOLDER_CERT_4" width="200" style="border-radius:8px;"><br>
+  <b>Scratch & Game Design</b>
+</td>
+<td align="center" width="33%">
+  <img src="PLACEHOLDER_CERT_5" width="200" style="border-radius:8px;"><br>
+  <b>App Inventor / Android Dev</b>
+</td>
+<td align="center" width="33%">
+  <img src="PLACEHOLDER_CERT_6" width="200" style="border-radius:8px;"><br>
+  <b>Kodular App Development</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
