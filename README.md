@@ -10,7 +10,7 @@
 <h3 align="center">Web Developer • Game & Mobile App Creator • Founder of AhuraCode.ir</h3>
 
 <p align="center">
-  <img src="PLACEHOLDER_PROFILE_IMAGE" width="160" style="border-radius:50%; border:4px solid #e63946;" alt="profile"/>
+  <img src="https://uploadkon.ir/uploads/3f4f04_25Gemini-Generated-Image-3lqlmx3lqlmx3lql.png" width="160" style="border-radius:50%; border:4px solid #e63946;" alt="profile"/>
 </p>
 
 ---
@@ -59,8 +59,8 @@ Through **AhuraCode.ir**, I work on:
 | Project | Description | Preview | Link |
 |--------|-------------|---------|------|
 | **AhuraCode.ir** | My personal portfolio & service website | <img src="https://uploadkon.ir/uploads/fbcd04_25Screenshot-2025-12-04-192725.png" width="260" style="border-radius:12px;"> | [Visit](https://www.ahuracode.ir) |
-| **Shalyl.com** | E-commerce site for leather gift sets | <img src="[PLACEHOLDER_PROJECT_IMG_SHALIL](https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png)" width="260" style="border-radius:12px;"> | [Visit](https://www.shalyl.com) |
-| **GitHub Template** | Website template I uploaded on GitHub | <img src="PLACEHOLDER_PROJECT_IMG_TEMPLATE" width="260" style="border-radius:12px;"> | [View on GitHub](PLACEHOLDER_GITHUB_TEMPLATE_LINK) |
+| **Shalyl.com** | E-commerce site for leather gift sets | <img src="https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png" width="260" style="border-radius:12px;"> | [Visit](https://www.shalyl.com) |
+| **GitHub Template** | Website template I uploaded on GitHub | <img src="https://uploadkon.ir/uploads/fbd504_25Screenshot-2025-12-04-193104.png" width="260" style="border-radius:12px;"> | [View on GitHub](https://ahuraebrahimi.github.io/website/) |
 
 </div>
 
