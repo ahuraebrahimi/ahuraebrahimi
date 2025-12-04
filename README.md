@@ -3,16 +3,14 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Ahura%20Code&fontSize=65&fontColor=ffffff&color=gradient&customColorList=2,4,9,12&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ahura%20Code&fontSize=70&fontColor=ffffff&color=gradient&customColorList=2,4,9,12&fontAlignY=38&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=A778FF&center=true&vCenter=true&width=900&lines=Ahura+Ebrahimi+—+Software+Developer;Web+%2F+Mobile+Developer;Python+%7C+Java+Programmer;Game+Developer+%7C+Creative+Coder;Welcome+to+My+Digital+Universe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=A778FF&center=true&vCenter=true&width=950&lines=Ahura+Ebrahimi+—+Software+Developer;Web+%2F+Mobile+Developer;Python+%7C+Java+Programmer;Game+Developer+%7C+Creative+Coder;Welcome+to+My+Digital+Universe" />
 </p>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ======================== ABOUT ME ======================== -->
@@ -25,18 +23,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/USERNAME.png" width="200" style="border-radius: 25px; box-shadow: 0px 0px 25px #a873ff;" />
+  <img src="https://github.com/USERNAME.png" width="200" style="border-radius: 50%; box-shadow: 0px 0px 30px #a873ff;" />
 </p>
 
 <p align="center">
-  <strong>I’m Ahura Ebrahimi</strong>, a passionate young developer who started his journey from Scratch & App Inventor  
-  and grew into a full-stack creator capable of building web apps, mobile apps, games, Python tools, and modern UI experiences.  
-  I love clean code, creative interfaces, and automation that makes life easier.
+  <strong>Hello! I’m Ahura Ebrahimi</strong>, a passionate full-stack developer with expertise in Web, Mobile, Game Development, Python & Java.  
+  I love clean code, interactive UI, automation, and turning ideas into reality! 🚀
 </p>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ====================== INFORMATION BOX =================== -->
@@ -51,13 +46,13 @@
 <td align="center">
 
 ### 🎓 Education  
-Student & Independent Developer  
+Independent Developer & Student  
 
 </td>
 <td align="center">
 
 ### 🌐 Website  
-**www.ahuracode.ir**
+[www.ahuracode.ir](https://www.ahuracode.ir)
 
 </td>
 </tr>
@@ -66,13 +61,13 @@ Student & Independent Developer
 <td align="center">
 
 ### 📧 Email  
-**ahuracodes@gmail.com**
+[ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)
 
 </td>
 <td align="center">
 
 ### 📞 Phone  
-**09046855918**
++98 904 685 5918
 
 </td>
 </tr>
@@ -81,8 +76,6 @@ Student & Independent Developer
 </div>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ========================== SKILLS ======================== -->
@@ -108,8 +101,6 @@ Student & Independent Developer
 
 <br><br>
 
-
-
 <!-- ========================================================= -->
 <!-- ======================== WHAT I DO ======================= -->
 <!-- ========================================================= -->
@@ -126,8 +117,6 @@ Student & Independent Developer
 
 <br><br>
 
-
-
 <!-- ========================================================= -->
 <!-- ==================== FEATURED PROJECTS =================== -->
 <!-- ========================================================= -->
@@ -138,16 +127,14 @@ Student & Independent Developer
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **🐍 Snake Game** | Fast, clean, and smooth gameplay | Python, Pygame |
-| **🧩 Rubik’s Cube Solver App** | Mobile learning & solver app | App Inventor |
-| **🌤 Weather App** | Beautiful, API-powered weather UI | HTML, CSS, JS |
-| **🛒 Shalil Store** | Modern eCommerce store | WordPress |
+| **🐍 Snake Game** | Fast, smooth gameplay with Pygame | Python, Pygame |
+| **🧩 Rubik’s Cube Solver** | Mobile learning & solver app | App Inventor |
+| **🌤 Weather App** | Beautiful, API-powered UI | HTML, CSS, JS |
+| **🛒 Shalil Store** | Modern eCommerce website | WordPress |
 
 </div>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ===================== GITHUB STATISTICS ================== -->
@@ -156,17 +143,15 @@ Student & Independent Developer
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=10" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&border_radius=10" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=15" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&bg_color=1a1a1a&color=BA68C8&line=BA68C8&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&bg_color=1a1a1a&color=BA68C8&line=BA68C8&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ============================ FACTS ======================= -->
@@ -175,18 +160,13 @@ Student & Independent Developer
 <h1 align="center">🌈 Fun Facts & Highlights</h1>
 
 <p align="center">
-  ⭐ 103+ Completed Projects  
-  <br>
-  ⭐ 35+ Happy Clients  
-  <br>
-  ⭐ 10 Awards for Coding & Creativity  
-  <br>
-  ⭐ 100+ Cups of Coffee powering development  
+  ⭐ 103+ Completed Projects  <br>
+  ⭐ 35+ Happy Clients  <br>
+  ⭐ 10 Awards for Coding & Creativity  <br>
+  ⭐ 100+ Cups of Coffee fueling development ☕
 </p>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ============================ CONTACT ===================== -->
@@ -195,20 +175,14 @@ Student & Independent Developer
 <h1 align="center">📞 Contact Me</h1>
 
 <p align="center">
-<strong>Website:</strong> ahuracode.ir  
-<br>
-<strong>Email:</strong> ahuracodes@gmail.com  
-<br>
-<strong>Phone:</strong> 09046855918  
-<br>
-<strong>LinkedIn:</strong> in/ahura-ebrahimi-923948383  
-<br>
-<strong>GitHub:</strong> github.com/USERNAME  
+<strong>Website:</strong> [ahuracode.ir](https://ahuracode.ir)  <br>
+<strong>Email:</strong> [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)  <br>
+<strong>Phone:</strong> +98 904 685 5918  <br>
+<strong>LinkedIn:</strong> [Ahura Ebrahimi](https://linkedin.com/in/ahura-ebrahimi-923948383)  <br>
+<strong>GitHub:</strong> [USERNAME](https://github.com/USERNAME)  
 </p>
 
 <br><br>
-
-
 
 <!-- ========================================================= -->
 <!-- ======================== FOOTER ========================== -->
