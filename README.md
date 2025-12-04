@@ -103,8 +103,10 @@ Through **AhuraCode.ir**, I work on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=tokyonight" width="49%" />
+  ![GitHub followers](https://img.shields.io/github/followers/ahuraebrahimi?style=social)
+  ![GitHub repo count](https://img.shields.io/github/repo-count/ahuraebrahimi?style=for-the-badge&color=1abc9c)
+  ![Top Languages](https://img.shields.io/github/languages/top/ahuraebrahimi?style=for-the-badge&color=2c3e50)
+  ![GitHub stars](https://img.shields.io/github/stars/ahuraebrahimi?style=social)
 </p>
 
 
