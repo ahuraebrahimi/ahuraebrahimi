@@ -1,128 +1,106 @@
 <!-- ====================================== -->
-<!--           PREMIUM AHURA README         -->
+<!--        AHURA E EBRAHIMI – ULTIMATE README        -->
 <!-- ====================================== -->
 
 <p align="center">
-  <img src="YOUR-BANNER" width="100%" alt="banner">
+  <img src="YOUR-BANNER-IMAGE" width="100%" alt="Ahura Code Banner"/>
 </p>
 
-<h1 align="center">👨‍💻 <span style="color:#ff3c3c;">Ahura Ebrahimi</span></h1>
-<h3 align="center">Full-Stack Developer • Game Developer • Mobile App Creator • Founder of AhuraCode.ir</h3>
+<h1 align="center">👋 Hi there, I’m <span style="color:#E63946;">Ahura Ebrahimi</span></h1>
+<h3 align="center">Full-Stack Developer • Game Developer • Mobile & Web Creator • Founder of AhuraCode.ir</h3>
 
 <p align="center">
-  <img src="YOUR-PROFILE-IMAGE" width="150" style="border-radius:50%; border:4px solid #ff3c3c;">
-</p>
-
-<br>
-
----
-
-## 🎯 About Me
-
-Hi! I'm **Ahura**, a passionate developer focused on:
-
-- ⚡ Full-stack development  
-- ⚡ Web design with modern UI  
-- ⚡ Android App Development  
-- ⚡ Game Development (2D & Logic-based)  
-- ⚡ WordPress Custom Themes & Plugins  
-- ⚡ High-performance and Secure Systems  
-
-At **AhuraCode.ir**, I design fully custom-coded projects with:
-- 🔥 beautiful UI  
-- 🔥 scalable architecture  
-- 🔥 high performance  
-- 🔥 optimized user experience  
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php,bootstrap,react,django,git,github,wordpress,androidstudio,linux,vscode" />
-</p>
-
----
-
-## 🧩 What I Build
-
-### 🌐 Websites  
-- Custom-coded, fast, secure websites  
-- E-commerce stores  
-- Admin dashboards  
-- Portfolio & business sites  
-
-### 📱 Apps  
-- Android apps via Java, App Inventor & Kodular  
-- Utility tools, calculators, data apps  
-
-### 🎮 Games  
-- Snake Game  
-- Cube Solver  
-- Space Shooter  
-- Logic Puzzles  
-
----
-
-## 🏆 Featured Projects
-
-### 🟥 Shalil Leather E-Commerce  
-A modern red-themed e-commerce website for leather gift sets.
-
-### 🎮 Games Collection  
-A set of custom-built games using Game Maker & Python.
-
-### 📱 Mobile Apps  
-Multiple Android tools with modern UI and optimized logic.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" />
+  <img src="YOUR-PROFILE-IMAGE" width="160" style="border-radius:50%; border:4px solid #E63946;" alt="Ahura Profile"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" />
+  <a href="https://www.ahuracode.ir">🌐 Website</a> •
+  <a href="mailto:ahuracodes@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ahura-ebrahimi-923948383/">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🎬 Animated Touch
+## 🎉 My Mission  
+I believe every project—whether it’s a website, app or game—should be **sleek, performant and tailored**. At AhuraCode.ir, I bring ideas to life with clean code, modern design & smart architecture.
+
+---
+
+## 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,django,androidstudio,wordpress,git,github" />
+</p>
+
+---
+
+## 📂 Projects & Portfolio  
+Here are some of my standout works:
+
+| Project | Description | Screenshot |
+|--------|-------------|------------|
+| **Shalil Leather Gift Store** | A red-themed e-commerce site built end-to-end. | ![Screenshot](LINK_TO_SITE_IMAGE_1) |
+| **Snake Game** | A classic snake game developed with Python/Pygame. | ![Screenshot](LINK_TO_PROJECT_IMAGE_2) |
+| **Rubik Cube App** | Android application solving & visualising Rubik’s Cube. | ![Screenshot](LINK_TO_PROJECT_IMAGE_3) |
+
+*More projects available on my GitHub & website.*
+
+---
+
+## 📜 Certifications & Awards  
+- 🎓 **CS50X – Harvard University** — Completed with honours.  
+- 🥇 **Front-End Web Development – Starcoach** — Certificate: FrontendDevelopment.pdf  
+- 🧪 **Python Programming – Iran Digital** — Certificate: PythonDev.pdf  
+- 🕹️ **Game Design with Scratch & GameMaker – Iran Scratch Academy**  
+- 🤖 **Mobile App Development – App Inventor & Kodular**  
+
+> ![Certificate](LINK_TO_CERT_IMAGE_1)  
+> ![Certificate](LINK_TO_CERT_IMAGE_2)
+
+---
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula" />
 </p>
 
 ---
 
-## 📚 Certifications
+## 🤝 Collaborate & Connect  
+I’m open for:
+- Freelance & Contract Projects  
+- Collaboration on Open-Source  
+- Mentorship & Training Sessions  
+- Game Jams & Hackathons  
 
-- 🟨 CS50X — Harvard University  
-- 🟧 Web Development — Starcoach  
-- 🟦 Python Development — Iran Digital  
-- 🟩 Scratch & Game Design — Iran Scratch Academy  
-- 🟪 App Inventor & Android — Scratch Academy  
-
----
-
-## 📬 Contact Me
-
-- 🌐 Website → **https://www.ahuracode.ir**  
-- 📧 Email → **ahuracodes@gmail.com**  
-- 💼 LinkedIn → Ahura Ebrahimi  
-- 📞 Phone → 09046855918  
-- 🧊 Discord → Add your username  
+Let’s build something amazing together!  
+📩 Reach out: ahuracodes@gmail.com
 
 ---
 
+## 🧭 Future Goals  
+- 🚀 Launch 3 full mobile apps in 2026  
+- 🔧 Contribute 10+ open-source libraries / tools  
+- 🌍 Create an online course on “Advanced Web Performance”  
+- 🎮 Develop a cross-platform game with Unity/Unreal  
+
+---
+
+## 🎬 Visual Fun  
 <p align="center">
-  <strong>🔥 Thanks for visiting! Don’t forget to ⭐ star the repositories you like.</strong>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="250" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" />
-</p>
+---
+
+## 📝 Final Note  
+Thanks for dropping by — if you enjoyed what you saw, feel free to ⭐ star my repositories and reach out anytime.  
+Let’s code the future together!  
+*— Ahura*
+
