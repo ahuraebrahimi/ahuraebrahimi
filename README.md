@@ -1,164 +1,96 @@
-<!-- ──────────────────────────────── HEADER ──────────────────────────────── -->
+<!-- ====================================== -->
+<!--      AHURA EBRAHIMI – Enhanced README     -->
+<!-- ====================================== -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="coding-banner"/>
+</p>
+
+<h1 align="center">👋 Hi, I’m **Ahura Ebrahimi**</h1>
+<h3 align="center">Full-Stack & Web Developer • Game Developer • Mobile App Creator • Founder of AhuraCode.ir</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQ6n57Bs/giphy.gif" width="150" style="border-radius:50%;" alt="profile-gif"/>
+</p>
+
+---
+
+## 🌍 About Me
+I’m Ahura Ebrahimi — starting out with visual tools like Scratch & App Inventor, today I build full-fledged websites, mobile apps and games. :contentReference[oaicite:1]{index=1}  
+My main technologies include Python, Java, HTML/CSS/JavaScript, WordPress, and game-engines like Game Maker and Pygame. :contentReference[oaicite:2]{index=2}  
+I founded **AhuraCode.ir**, a platform through which I deliver bespoke web and software solutions — always focusing on **performance**, **security**, **scalability**, and **beautiful design**. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 🧠 Skills & Technologies
+| Area                          | Tools & Languages                                                             |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Frontend / Web**            | HTML5, CSS3, JavaScript, Responsive Layouts                                  |
+| **Backend / Full-Stack**      | Python (Django/Flask), Java, REST APIs                                       |
+| **CMS / WordPress**           | Custom Themes, Plugins, Site Optimization                                    |
+| **Mobile Development**        | App Inventor, Kodular, Android Apps                                          |
+| **Game Development**          | Pygame, Game Maker, Scratch                                                   |
+| **Tools & Best Practices**    | Git/GitHub, VS Code, Code Review, Performance & Security Optimization        |
 
 <div align="center">
-
-<img src="YOUR_BANNER_GIF" width="100%" />
-
-# 👋 Hey! I'm **Ahoora Ebrahimi**
-### ⚡ Frontend & Web Developer | Designer | Creator  
-#### Founder of **AhuraCode.ir**
-
-<img src="YOUR_COOL_PROGRAMMING_GIF" width="350" />
-
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="300" alt="code-in-action"/>
 </div>
 
 ---
 
-<!-- ──────────────────────────────── ABOUT ME ──────────────────────────────── -->
+## 🏗️ What I Build
+- Custom websites with modern UI and strong backend logic.  
+- E-commerce platforms that merge design and commerce.  
+- Interactive mobile apps and Android tools.  
+- 2D games and playful experiences for web/mobile.  
+- WordPress systems that don’t just look good — perform well.
 
-## 🌟 About Me
+---
 
-I'm **Ahoora**, a passionate web developer & designer from Iran.  
-I love creating **modern, fast, clean and unique** websites — from idea to full product.
+## 🧾 Certifications & Achievements
+- CS50 — Harvard University :contentReference[oaicite:4]{index=4}  
+- Web Development (Front-end) — Starcoach :contentReference[oaicite:5]{index=5}  
+- Python Development — Iran Digital :contentReference[oaicite:6]{index=6}  
+- Game Design with Scratch & Game Maker :contentReference[oaicite:7]{index=7}  
 
-- 🔥 Founder & Developer of **[AhuraCode.ir](https://ahuracode.ir)**
-- 🎨 UI/UX designer with minimal & modern style
-- 🧠 With experience in **HTML, CSS, JavaScript, Java, Python, WordPress**
-- 📱 Developer with **App Inventor**, Scratch & Game Maker  
-- 🌐 Creator of amazing e-commerce websites
-- 🚀 Always learning — always building
+---
 
-<br>
+## 📊 GitHub Analytics  
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=radical" alt="github-stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=radical" alt="github-streak"/>
+</p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=radical" alt="top-languages"/>
+</p>
 
+---
+
+## 🎮 Fun Coding GIFs  
 <div align="center">
-<img src="YOUR_COOL_HACKING_GIF" width="450" />
+  <img src="https://media.giphy.com/media/3o7TKsQ6ER5ZVcx1j6/giphy.gif" width="200" alt="fun-code1"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="fun-code2"/>
+  <img src="https://media.giphy.com/media/5wWf7 G nnK8pUj4xl0/giphy.gif" width="200" alt="fun-code3"/>
 </div>
 
 ---
 
-<!-- ──────────────────────────────── SKILLS ──────────────────────────────── -->
-
-## 🚀 Skills & Technologies
-
-<div align="center">
-
-| Category | Skills |
-|---------|--------|
-| **Frontend** | HTML, CSS, JavaScript, Tailwind, Responsive Design |
-| **Backend** | Python, Java, Node Basics |
-| **CMS** | WordPress (Theme/Plugin Customization) |
-| **Tools** | Git, GitHub, VS Code, Figma, Photoshop |
-| **Other Skills** | App Inventor, Scratch, Game Maker |
-
-<br>
-
-<img src="YOUR_CODE_RAIN_GIF" width="400" />
-
-</div>
+## 🎯 My Mission & Vision  
+I believe a website is *not just a digital presence* — it’s a **growth engine**. At AhuraCode, I build solutions that:  
+- Scale as your business grows  
+- Are optimized for performance from day one  
+- Are secure and maintainable  
+- Reflect your brand identity uniquely  
+:contentReference[oaicite:8]{index=8}  
 
 ---
 
-<!-- ──────────────────────────────── PROJECTS ──────────────────────────────── -->
-
-## 🏆 Featured Projects
-
-### ⭐ AhuraCode Website  
-> My main personal and business website
-
-<div align="center">
-<img src="YOUR_AHURACODE_SCREENSHOT" width="80%" style="border-radius:20px">
-</div>
+## 📬 Let’s Connect  
+- 🌐 Website: [ahuracode.ir](https://www.ahuracode.ir) :contentReference[oaicite:9]{index=9}  
+- 📧 Email: ahuracodes@gmail.com :contentReference[oaicite:10]{index=10}  
+- 💼 LinkedIn: [Ahura Ebrahimi](https://www.linkedin.com/in/ahura-ebrahimi-923948383/) :contentReference[oaicite:11]{index=11}  
 
 ---
 
-### ⭐ Premium Store Website  
-> A full e-commerce website for digital, leather & cosmetic products.
-
-<div align="center">
-<img src="YOUR_STORE_PROJECT_IMAGE" width="80%" style="border-radius:20px">
-</div>
-
----
-
-### ⭐ Leather Gift Set Website “Shalil”  
-> High-quality design with red luxury theme.
-
-<div align="center">
-<img src="YOUR_SHALIL_SCREENSHOT" width="80%" style="border-radius:20px">
-</div>
-
----
-
-<!-- ──────────────────────────────── CERTIFICATES ──────────────────────────────── -->
-
-## 🎓 Certificates & Achievements
-
-> (Aesthetic Card Style — Just replace image links)
-
-<div align="center">
-
-<table>
-<tr>
-<td><img src="YOUR_CERTIFICATE_IMAGE_1" width="250"/></td>
-<td><img src="YOUR_CERTIFICATE_IMAGE_2" width="250"/></td>
-<td><img src="YOUR_CERTIFICATE_IMAGE_3" width="250"/></td>
-</tr>
-<tr>
-<td align="center"><b>Web Development Basics</b></td>
-<td align="center"><b>Java Programming</b></td>
-<td align="center"><b>Python Course</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ──────────────────────────────── GITHUB ANALYTICS ──────────────────────────────── -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=tokyonight&hide_border=true" height="180px"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
-
-</div>
-
----
-
-<!-- ──────────────────────────────── MORE FUN SECTIONS ──────────────────────────────── -->
-
-## 🎮 Fun Coding Animation
-
-<div align="center">
-<img src="YOUR_TYPING_GIF" width="500"/>
-</div>
-
----
-
-## 🧩 What I'm Working On
-
-- 🌐 A new premium e-commerce template  
-- 🎨 UI redesign for AhuraCode  
-- ⚙️ Custom WordPress components  
-- 📚 Learning advanced JavaScript patterns  
-
----
-
-## 📨 Contact Me
-
-<div align="center">
-
-📧 Email: **your-email@example.com**  
-🌍 Website: **https://ahuracode.ir**  
-💬 Telegram / Instagram / GitHub  
-<br><br>
-
-<img src="YOUR_WAVE_GIF" width="300" />
-
-</div>
+Thank you for stopping by! ⭐ Feel free to explore my repositories, star what you like and drop a message if you’d like to collaborate.  
+*— Ahura*
