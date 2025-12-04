@@ -1,147 +1,134 @@
-<!-- ========================================================= -->
-<!-- ======================   HEADER   ======================== -->
-<!-- ========================================================= -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00c1ff;">B.M.V</span></h1>
-<h3 align="center">
-  Full-Stack Developer | Front-End Specialist | UI/UX Enthusiast  
-</h3>
+---
+
+# 🎛️ Technologies & Tools
 
 <p align="center">
-  <strong style="color:#ff4d94;">Founder & Developer at AhuraCode.ir</strong>  
-  <br>
-  Crafting modern, fast, scalable, clean web applications with a passion for design & performance.
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=ahuracode&label=Profile%20Views&color=ff4d94&style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-AhuraCode.ir-00c1ff?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Developer-Creator-8e44ad?style=for-the-badge" /></a>
+ <img src="https://skillicons.dev/icons?i=python,java,html,css,js,bootstrap,tailwind,wordpress,androidstudio,github,vscode,figma,flutter,git,kotlin" />
 </p>
 
 ---
 
-<!-- ========================================================= -->
-<!-- ======================   ABOUT ME   ====================== -->
-<!-- ========================================================= -->
+# 🧠 Tech Stack & Skills
 
-## 🌟 About Me
-
-I am a passionate developer who specializes in building:
-
-- ⚡ High-performance web applications  
-- 🎨 Beautiful, clean, modern UI/UX  
-- 🚀 Fast, scalable, maintainable front-end architectures  
-
-I focus heavily on quality, readability, and performance.  
-My work at **AhuraCode** is dedicated to producing premium, modern, and developer-friendly templates, components, and UI kits.
+| Language / Tool | Usage | Level |
+|-----------------|--------|--------|
+| **HTML / CSS / JS** | Web development | ⭐⭐⭐⭐⭐ (90%) |
+| **WordPress** | Site building | ⭐⭐⭐⭐⭐ (90%) |
+| **Python** | Scripting, automation, games | ⭐⭐⭐⭐ (85%) |
+| **Game Dev** | Pygame / Game Maker | ⭐⭐⭐⭐ (70%) |
+| **Java** | OOP, desktop & mobile | ⭐⭐⭐⭐ (70%) |
+| **App Inventor / Kodular** | Mobile apps | ⭐⭐⭐⭐ |
+| **Figma** | UI/UX design | ⭐⭐⭐⭐ |
+| **Git / GitHub** | Version control | ⭐⭐⭐⭐ |
 
 ---
 
-<!-- ========================================================= -->
-<!-- ======================   SKILLS   ======================== -->
-<!-- ========================================================= -->
+# 🎯 Achievements & Stats
 
-## 🧰 Tech Stack & Skills
+<div align="center">
 
-### 🔥 Languages & Core Tech
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,python,java" />
-</p>
+### ✔️ Fun Facts
 
-### 🎨 Front-End & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,threejs" />
-</p>
+| Completed Projects | Happy Clients | Awards | Cups of Coffee |
+|--------------------|---------------|--------|----------------|
+| 103 | 35 | 10 | 100 |
 
-### 🛠 Back-End & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,postgres" />
-</p>
+<br>
 
-### ⚙️ Tools & Workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,cloudflare,vercel" />
-</p>
+### 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahuracode&theme=tokyonight&hide_border=true" width="500" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahuracode&show_icons=true&theme=radical&hide_border=true" width="500"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuracode&layout=compact&theme=radical&hide_border=true" width="400"/>
+
+</div>
 
 ---
 
-<!-- ========================================================= -->
-<!-- ================  DETAILED PROFESSIONAL SKILLS   ========= -->
-<!-- ========================================================= -->
+# 💼 Portfolio (Selected Projects)
 
-## 📊 Professional Breakdown
+### 🎮 Snake Game  
+Classic Python snake game built with Pygame.
 
-| Category | Description | Level |
-|---------|-------------|-------|
-| **Front-End Development** | React, Next.js, SPA/SSR, Responsive UI, UI Systems | ⭐⭐⭐⭐⭐ |
-| **UI/UX Design** | Design Systems, Typography, Layout, Accessibility | ⭐⭐⭐⭐ |
-| **Back-End Development** | REST APIs, Authentication, DB Models | ⭐⭐⭐⭐ |
-| **Performance Optimization** | Code splitting, lazy loading, caching strategies | ⭐⭐⭐⭐⭐ |
-| **DevOps & Deployment** | CI/CD, Vercel, Cloudflare, Linux basics | ⭐⭐⭐⭐ |
+### 📱 Rubik's Cube App  
+Mobile app for solving and animating Rubik’s cube (App Inventor).
 
----
+### 🛍️ Shalil Store Website  
+E-commerce website built with HTML, CSS, JS.
 
-<!-- ========================================================= -->
-<!-- ======================   PROJECTS   ====================== -->
-<!-- ========================================================= -->
-
-## 🚀 Featured Projects
-
-### 🔸 AhuraCode Premium Templates
-High-quality modern UI templates built with clean code, animations, and pro-level design.
-
-### 🔸 Advanced UI Components
-Reusable, framework-agnostic components for both personal and commercial projects.
-
-### 🔸 Custom Web Applications
-Fully responsive, optimized, production-ready apps for clients and businesses.
-
-> More coming soon…
+### 🌦️ Weather App  
+Weather forecast app with API integration.
 
 ---
 
-<!-- ========================================================= -->
-<!-- ======================   TROPHIES   ====================== -->
-<!-- ========================================================= -->
+# 🧩 Services I Provide
 
-## 🏆 GitHub Achievements & Trophies
+### 🌐 Web Development  
+Responsive and professional websites with HTML, CSS and JS.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahuracode&margin-w=10&column=7&theme=radical" />
-</p>
+### 📱 Mobile Apps  
+Android apps built with App Inventor & Kodular.
 
----
+### 🎮 Game Development  
+2D games using Game Maker and Pygame.
 
-<!-- ========================================================= -->
-<!-- ======================   STATS   ========================= -->
-<!-- ========================================================= -->
+### 🐍 Python Programming  
+Tools, scripts and automation using Python.
 
-## 📈 GitHub Stats
+### 📝 Java Development  
+Desktop and cross-platform applications with Java.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahuracode&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahuracode&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuracode&layout=compact&theme=radical&hide_border=true" />
-</p>
+### 🧩 WordPress  
+Professional WordPress website setup and management.
 
 ---
 
-<!-- ========================================================= -->
-<!-- ======================   CONTACT   ======================= -->
-<!-- ========================================================= -->
+# 🎖️ Certifications
 
-## 📬 Contact Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Website-Visit-00c1ff?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-Follow-ff6f91?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-Message-2f80ed?style=for-the-badge" /></a>
-</p>
+| Course | Institution |
+|--------|------------|
+| CS50 — Harvard University | Harvard |
+| Front-End Development | StarCoach |
+| Python Course | Iran Digital |
+| Scratch Game Development | Iran Scratch |
+| App Inventor Development | Iran Scratch |
+| Game Maker Development | Iran Scratch |
 
 ---
 
-<h3 align="center">Designed with passion by <strong>AhuraCode</strong></h3>
+# 💸 Pricing Plans
+
+| Plan | Price | Includes |
+|------|--------|----------|
+| **Basic** | 3,000,000 Toman | One-page website, responsive, support |
+| **Professional** | 7,000,000 Toman | Multi-page corporate website, 1 month support |
+| **Custom** | Negotiable | Full custom app, game or backend system |
+
+---
+
+# 🎓 Courses I Teach
+
+### 🐍 Python Course – Beginner to Advanced  
+### 🌐 Web Design Course (HTML, CSS, JS)  
+### 🎨 Scratch Course  
+### 🎮 Game Maker Course  
+### 📱 App Inventor Course  
+### 🎓 CS50 Harvard Support Program
+
+---
+
+# 📚 Latest Blog Posts
+
+- How to Start Programming  
+- How to Become a Web Developer  
+- Choosing the Best Programming Language  
+
+---
+
+# 📬 Contact Me
+
+If you want to start a project, get advice, or ask any questions:
+
