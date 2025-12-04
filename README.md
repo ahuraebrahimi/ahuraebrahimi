@@ -64,7 +64,7 @@ Through **AhuraCode.ir**, I work on:
 
 ---
 
-## 🏅 Certifications (Card Style)
+## 🏅 Certifications
 
 
 <div align="center">
