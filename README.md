@@ -113,15 +113,6 @@ Through **AhuraCode.ir**, I work on:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahuraebrahimi&theme=radical&langs_count=10" width="400" />
 </p>
 
----
-
-## 🎬 Developer GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230" alt="code-animation"/>
-  <img src="https://media.giphy.com/media/3o7TKsQ6ER5ZVcx1j6/giphy.gif" width="230" alt="programming-mood"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230" alt="dev-life"/>
-</p>
 
 ---
 
