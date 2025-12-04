@@ -1,84 +1,87 @@
-<!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=220&section=header&text=Ahura%20Code&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+%26+Backend+Engineer;Clean+Code+%26+Architecture+Lover;UI%2FUX+Focused+Developer;Creator+of+Modern+Digital+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&color=6C63FF&width=800&lines=Ahura+Ebrahimi;Software+Developer+%26+Programmer;Web+%2F+Mobile+%2F+Game+Developer;Python+%26+Java+;Clean+Code+Enthusiast" />
 </p>
 
 ---
 
-# 👋 About Me
-I am a passionate **Full-Stack Developer** who builds fast, scalable, and modern applications with a strong focus on **clean architecture**, **beautiful UI**, and **high-performance code**.  
-I create digital products, custom software, automation tools, websites, dashboards, and advanced front-end experiences.
+## 👤 About Me
 
-I believe in:
-- writing clean and maintainable code  
-- building systems that scale  
-- creating modern and professional UI/UX  
-- delivering production-ready solutions  
+**I’m Ahura Ebrahimi — a software developer and programmer.**  
+I started my programming journey using visual tools like **Scratch** and **App Inventor**.  
+Today, I work on **web**, **mobile**, **and game** projects using languages like **Python** and **Java**, and I also have a passion for making games with **Pygame** and **Game Maker**.
 
----
-
-# 🚀 Tech Stack
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vue" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,php,laravel" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,nginx,postman,figma" />
-</p>
+**Details:**  
+- Student  
+- Website: https://www.ahuracode.ir  
+- Email: ahuracodes@gmail.com  
+- Phone: 09046855918  
+- LinkedIn: /in/ahura-ebrahimi-923948383
 
 ---
 
-# 📈 GitHub Analytics
+## 🛠 Skills & Expertise
+
+### ✅ Programming & Tools
+- Web Development: HTML, CSS, JavaScript  
+- Python (Python programming and scripting)  
+- Java  
+- Game Development (Game Maker, Pygame)  
+- Mobile App Development (App Inventor / Kodular)  
+
+---
+
+## 🎯 Services I Offer
+
+- **Web Development** — building professional websites with HTML, CSS, JS  
+- **Mobile App Development** — apps using App Inventor / Kodular  
+- **Game Development** — games via Game Maker or Pygame  
+- **Python Programming** — scripts, tools, small apps  
+- **WordPress** — if needed for website projects  
+- **Java Development** — apps and backend services  
+
+---
+
+## 📂 Portfolio — Sample Projects
+
+Here are some examples of my works:
+
+- **Snake Game** — classic game built with custom logic  
+- **Rubik’s Cube App** — mobile app to help with cube solving  
+- **Shalil E-commerce Website** — full online store with user & product management  
+- **Weather App** — app providing live weather data  
+
+---
+
+## 🏅 Certifications
+
+I have completed several courses and received certificates, including:
+
+- **CS50 — Harvard University**  
+- **Frontend Development Course — Starcoach**  
+- **Python Course — Iran Digital**  
+- **Game Development with Scratch — Iran Scratch Academy**  
+- **App Inventor Development — Iran Scratch Academy**  
+- **Game Maker Development — Iran Scratch Academy**
+
+---
+
+## 📬 Contact Me
+
+If you want to discuss a project, need a custom development, or want to collaborate — feel free to reach out:
+
+- **Phone:** 09046855918  
+- **Email:** ahuracodes@gmail.com  
+
+---
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  © 2025 Ahura Code — Developed by Ahura Ebrahimi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=150&section=footer" />
 </p>
-
----
-
-# ⭐ Featured Projects
-
-### 🔥 **Project 1 — TITLE**
-A short description of what this project does and why it is valuable.  
-**Tech:** React, Node.js, MongoDB  
-[Live Demo](#) • [Source Code](#)
-
----
-
-### ⚡ **Project 2 — TITLE**
-Brief info about the project and its purpose.  
-**Tech:** Python, FastAPI, PostgreSQL  
-[Source Code](#)
-
----
-
-### 💡 **Project 3 — TITLE**
-Description of your third main project.  
-**Tech:** Java, Spring Boot  
-[Source Code](#)
-
----
-
-# 📦 Project Structure Example
