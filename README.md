@@ -71,29 +71,29 @@ Through **AhuraCode.ir**, I work on:
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="PLACEHOLDER_CERT_1" width="200" style="border-radius:8px;"><br>
+  <img src="https://uploadkon.ir/uploads/89ba04_25photo20306055025.jpg" width="200" style="border-radius:8px;"><br>
   <b>CS50 — Harvard University</b>
 </td>
 <td align="center" width="33%">
-  <img src="PLACEHOLDER_CERT_2" width="200" style="border-radius:8px;"><br>
+  <img src="https://uploadkon.ir/uploads/de4b04_25photo19087155980.jpg" width="200" style="border-radius:8px;"><br>
   <b>Front-End Web Development — Starcoach</b>
 </td>
 <td align="center" width="33%">
-  <img src="PLACEHOLDER_CERT_3" width="200" style="border-radius:8px;"><br>
+  <img src="https://uploadkon.ir/uploads/975e04_251757494420-default.png" width="200" style="border-radius:8px;"><br>
   <b>Python Development — Iran Digital</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-  <img src="PLACEHOLDER_CERT_4" width="200" style="border-radius:8px;"><br>
+  <img src="https://uploadkon.ir/uploads/8faf04_25scratch.jpeg" width="200" style="border-radius:8px;"><br>
   <b>Scratch & Game Design</b>
 </td>
 <td align="center" width="33%">
-  <img src="PLACEHOLDER_CERT_5" width="200" style="border-radius:8px;"><br>
+  <img src="https://uploadkon.ir/uploads/7ff404_25app-inventor.jpeg" width="200" style="border-radius:8px;"><br>
   <b>App Inventor / Android Dev</b>
 </td>
 <td align="center" width="33%">
-  <img src="PLACEHOLDER_CERT_6" width="200" style="border-radius:8px;"><br>
+  <img src="[PLACEHOLDER_CERT_6](https://uploadkon.ir/uploads/838d04_25game-maker.jpeg)" width="200" style="border-radius:8px;"><br>
   <b>Kodular App Development</b>
 </td>
 </tr>
