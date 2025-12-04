@@ -10,6 +10,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A778FF&center=true&vCenter=true&width=900&lines=Hi+I%27m+Ahura+Ebrahimi;Full-Stack+Developer+%7C+Python+%2F+Java;Web+%2F+Mobile+%2F+Game+Developer;Turning+Ideas+into+Code" />
 </p>
 
+<p align="center">
+  <a href="https://www.ahuracode.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ahuracode.ir-8A2BE2?style=for-the-badge" />
+  </a>
+  <a href="mailto:ahuracodes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahuracodes@gmail.com-E91E63?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/ahura-ebrahimi-923948383" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahura_Ebrahimi-0077B5?style=for-the-badge" />
+  </a>
+</p>
+
 <br>
 
 <!-- ========================================================= -->
@@ -28,14 +40,6 @@ I started with visual tools like <strong>Scratch</strong> & <strong>App Inventor
 I create clean code, interactive interfaces, and digital experiences that are both functional and visually stunning.
 </p>
 
-<p align="center">
-<strong>Education:</strong> Student  |  
-<strong>Website:</strong> [ahuracode.ir](https://www.ahuracode.ir)  |  
-<strong>Email:</strong> [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)  |  
-<strong>Phone:</strong> +98 904 685 5918  |  
-<strong>LinkedIn:</strong> [Ahura Ebrahimi](https://linkedin.com/in/ahura-ebrahimi-923948383)
-</p>
-
 <br>
 
 <!-- ========================================================= -->
@@ -44,7 +48,7 @@ I create clean code, interactive interfaces, and digital experiences that are bo
 
 <h1 align="center">💻 Skills</h1>
 
-<div align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-28A9E0?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
@@ -55,7 +59,7 @@ I create clean code, interactive interfaces, and digital experiences that are bo
 <img src="https://img.shields.io/badge/Pygame-4CBB17?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/App%20Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</div>
+</p>
 
 <br>
 
@@ -72,28 +76,28 @@ I create clean code, interactive interfaces, and digital experiences that are bo
 <img src="https://img.icons8.com/color/96/000000/snake.png" width="80"/>
 <br>
 <strong>Snake Game</strong><br>
-Smooth gameplay with Python.<br>
+Fast, smooth gameplay<br>
 <em>Python, Pygame</em>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/rubik.png" width="80"/>
 <br>
 <strong>Rubik’s Cube Solver</strong><br>
-Mobile learning & solver app.<br>
+Mobile learning & solver app<br>
 <em>App Inventor</em>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/cloud.png" width="80"/>
 <br>
 <strong>Weather App</strong><br>
-Beautiful API-powered UI.<br>
+Beautiful API-powered UI<br>
 <em>HTML, CSS, JS</em>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="80"/>
 <br>
 <strong>Shalil Store</strong><br>
-Modern eCommerce site.<br>
+Modern eCommerce site<br>
 <em>WordPress</em>
 </td>
 </tr>
@@ -160,15 +164,35 @@ Cross-platform apps
 <tr>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/harvard.png" width="60"/><br>
-<strong>CS50 Harvard</strong>
+<strong>CS50 Harvard</strong><br>
+Harvard University
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/python.png" width="60"/><br>
-<strong>Python Course</strong>
+<strong>Python Course</strong><br>
+Iran Digital
 </td>
 <td align="center">
 <img src="https://img.icons8.com/color/96/000000/scratch.png" width="60"/><br>
-<strong>Scratch Development</strong>
+<strong>Scratch Game Dev</strong><br>
+Iran Scratch Academy
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/android.png" width="60"/><br>
+<strong>App Inventor Dev</strong><br>
+Iran Scratch Academy
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/game-controller.png" width="60"/><br>
+<strong>Game Maker Dev</strong><br>
+Iran Scratch Academy
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/000000/star.png" width="60"/><br>
+<strong>Front-End Web Dev</strong><br>
+Starcoach
 </td>
 </tr>
 </table>
