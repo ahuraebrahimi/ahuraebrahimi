@@ -15,41 +15,43 @@
   <br>
 
   <p>
+    <a href="Ahura_Ebrahimi_Resume.pdf" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Download%20CV-000000?style=for-the-badge&logo=file-pdf&logoColor=FF9800&label=Resume" alt="Download Resume" />
+    </a>
+    &nbsp;&nbsp;
     <a href="README.md" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/EN-English-000000?style=for-the-badge&logo=react&logoColor=2196F3" alt="English Version" />
+        <img src="https://img.shields.io/badge/EN-English-2196F3?style=for-the-badge" alt="English Version" />
     </a>
     <a href="README-fa.md" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/FA-فارسی-5500AA?style=for-the-badge&logo=html5&logoColor=FF9800" alt="Persian Version" />
+        <img src="https://img.shields.io/badge/FA-فارسی-5500AA?style=for-the-badge" alt="Persian Version" />
     </a>
   </p>
-  
-  <br>
-  
-  <a href="Ahura_Ebrahimi_Resume.pdf" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Download%20Resume-0F7F9B?style=for-the-badge&logo=file-pdf&logoColor=white&label=PDF" alt="Download Resume" />
-  </a>
   
 </div>
 
 ---
+<br>
 
-## 🌟 About Me
+## 🎯 About Me & Professional Summary
 
-Hi! I’m **Zarina**, a passionate **Front-End Developer** currently mastering JavaScript, modern UI/UX design, and moving toward **Full-Stack Development**. I build **clean**, **modern**, and **responsive web apps**, turning ideas into working digital experiences.
+> **"I transform complex ideas into simple, clean, and responsive digital experiences."**
+> 
+> Hi! I’m **Zarina**, a passionate **Front-End Developer** currently mastering modern JavaScript, UI/UX design principles, and steadily moving toward **Full-Stack Engineering**. My core mission is to build software that is both **aesthetically pleasing** and **technically sound**.
+> 
+> My commitment to learning is demonstrated through rigorous self-study, including the **Odin Project** (in progress) and **freeCodeCamp** certifications.
+> 
+> * **🌐 Website:** [www.ahuracode.ir](https://www.ahuracode.ir)
+> * **📧 Contact:** [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)
+> * **🔗 LinkedIn (Ahura Ebrahimi):** [Connect Here](https://linkedin.com/in/ahura-ebrahimi-923948383)
 
-| Detail | Information |
-| :--- | :--- |
-| **Role Focus** | Front-End Development (Learning Full Stack) |
-| **Education Status** | Student & Independent Developer |
-| **Website** | [www.ahuracode.ir](https://www.ahuracode.ir) |
-| **Email** | [ahuracodes@gmail.com](mailto:ahuracodes@gmail.com) |
-| **LinkedIn** | [Ahura Ebrahimi](https://linkedin.com/in/ahura-ebrahimi-923948383) |
+<br>
 
 ---
+<br>
 
-## 💼 Skills
+## 🛠️ My Elite Toolset (Skills)
 
-### 🌈 Languages & Tools
+### 🌈 Core Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
@@ -60,41 +62,55 @@ Hi! I’m **Zarina**, a passionate **Front-End Developer** currently mastering J
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 </p>
 
-### 📊 Skill Progress (Visual)
+### 📈 Skill Progress & Mastery
 
-| Skill | Percentage | Progress Bar |
+> **Note:** Mastery levels are based on hands-on project experience and depth of understanding.
+
+| Skill | Level | Progress Bar |
 | :--- | :---: | :--- |
-| **HTML** | 85% | <img src="https://progress-bar.dev/85/" alt="Progress 85%"> |
-| **CSS** | 80% | <img src="https://progress-bar.dev/80/" alt="Progress 80%"> |
-| **JavaScript** | 65% | <img src="https://progress-bar.dev/65/" alt="Progress 65%"> |
-| **TailwindCSS** | 60% | <img src="https://progress-bar.dev/60/" alt="Progress 60%"> |
-| **Git/GitHub** | 75% | <img src="https://progress-bar.dev/75/" alt="Progress 75%"> |
+| **HTML / Semantic Markup** | **85%** | <img src="https://progress-bar.dev/85/" alt="Progress 85%"> |
+| **CSS / Layout & Design** | **80%** | <img src="https://progress-bar.dev/80/" alt="Progress 80%"> |
+| **JavaScript / Logic & DOM** | **65%** | <img src="https://progress-bar.dev/65/" alt="Progress 65%"> |
+| **TailwindCSS / Utility** | **60%** | <img src="https://progress-bar.dev/60/" alt="Progress 60%"> |
+| **Git & Version Control** | **75%** | <img src="https://progress-bar.dev/75/" alt="Progress 75%"> |
+
+<br>
 
 ---
+<br>
 
-## 🧩 Featured Projects
+## 🏗️ Project Showcase
 
-| Project Title | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Ahura Code** (Portfolio) | Modern, responsive portfolio showcasing skills and projects. | HTML, CSS, JS, Hosting | [Link to Repo](https://github.com/USERNAME/Ahura-Code) |
-| **Weather Snap** | Beautiful API-powered UI for real-time weather information. | HTML, CSS, **JS (APIs)** | [Link to Demo](https://[Demo-Link]) |
-| **Shalil Store** | Modern e-commerce site focused on simple user experience. | **WordPress**, WooCommerce | [Link to Site](https://[Site-Link]) |
-| **Snake Game** | Fast, smooth gameplay implemented for desktop environment. | **Python**, Pygame | [Link to Repo](https://github.com/USERNAME/Snake-Game) |
+My projects demonstrate practical application of my skillset, focusing on deliverable results.
+
+| 🔗 Project Name | 🎯 Focus & Description | 💻 Tech Stack |
+| :--- | :--- | :--- |
+| **Ahura Code** (Portfolio) | **The foundation** – a modern, responsive site showcasing my work and profile. | HTML, CSS, JS, Hosting |
+| **Weather Snap** | **API Integration** – a beautiful UI powered by a public API for real-time data display. | HTML, CSS, **JS (APIs)** |
+| **Shalil Store** | **E-Commerce** – a functional e-commerce site focused on simple user experience and product management. | **WordPress**, WooCommerce |
+| **Snake Game** | **Algorithm & Logic** – a classic game implemented with smooth, fast gameplay. | **Python**, Pygame |
+
+<br>
 
 ---
+<br>
 
-## 🏅 Certificates
+## 🏅 Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS50-Harvard-8A2BE2?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50 Badge"/>
   <img src="https://img.shields.io/badge/Responsive_Web_Design-freeCodeCamp-28A9E0?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="RWD freeCodeCamp Badge"/>
   <img src="https://img.shields.io/badge/Odin_Project-Foundation-7729E6?style=for-the-badge&logo=html5&logoColor=white" alt="Odin Project Badge"/>
   <img src="https://img.shields.io/badge/JavaScript_Algorithms-freeCodeCamp-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JS Algorithms freeCodeCamp Badge"/>
+  <img src="https://img.shields.io/badge/Git_Fundamentals-LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Git LinkedIn Learning Badge"/>
 </p>
 
----
+<br>
 
-## 📊 GitHub Stats
+---
+<br>
+
+## 📊 Analytics & Engagement
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
@@ -103,7 +119,10 @@ Hi! I’m **Zarina**, a passionate **Front-End Developer** currently mastering J
   <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=dark" alt="GitHub Streak" />
 </div>
 
+<br>
+
 ---
+<br>
 
 ## 🔗 Connect With Me
 
@@ -122,18 +141,21 @@ Hi! I’m **Zarina**, a passionate **Front-End Developer** currently mastering J
   </a>
 </p>
 
+<br>
+
 ---
+<br>
 
 <div align="center">
   
-  <p align="center">
-    <a href="#top">
-      <img src="https://img.shields.io/badge/Back%20to%20Top-333333?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
-    </a>
-  </p>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-333333?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
+  </a>
   
-  <p align="center">
-    💙 *Designed with passion by Zarina*
+  <br><br>
+  
+  <p style="font-size:0.9em; color:#555;">
+    💙 *Crafted with passion by Zarina | Focused on Clean Architecture & Exceptional UX.*
   </p>
 
 </div>
