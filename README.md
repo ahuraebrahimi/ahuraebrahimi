@@ -1,147 +1,129 @@
-<!-- ====== HEADER IMAGE ====== -->
+<!-- ──────────────────────────────── HEADER (Wave + Typing) ──────────────────────────────── -->
+
 <p align="center">
-  <img src="https://i.imgur.com/8hSVoH4.png" width="100%" alt="AhuraCode Banner"/>
+  <img src="https://raw.githubusercontent.com/ahuracode/assets/main/wave-header-fancy.svg" />
 </p>
 
-<h1 align="center">🔥 AhuraCode — Full-Stack Developer & Creative Technologist</h1>
-<p align="center">
-  <strong>Passionate about modern web development, UI/UX excellence, and building clean, scalable systems.</strong>
-</p>
+<h1 align="center">Hi, I'm <span style="color:#6C63FF;">Ahura</span> ✨</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Expert-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Developer-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Designer-Creative-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AhuraCode.ir-Official-black?style=for-the-badge"/>
-</p>
-
----
-
-# 🌈 About Me  
-I'm a dedicated developer focused on creating **high-performance, visually polished, and modern digital experiences**.  
-I build web apps, dashboards, landing pages, automation tools, and interactive UI systems with attention to detail.
-
-I believe in:
-
-- Clean and readable code  
-- High-quality UI/UX  
-- Building reusable structures  
-- Creative thinking + engineering discipline  
-
----
-
-# 🎯 My Core Expertise
-
-## 💻 Frontend Development
-```text
-HTML • CSS • JavaScript • Tailwind • Sass • React • Responsive Design • UI Architecture
-```
-
-## 🧠 Backend Development
-```text
-Java • Spring Boot • REST API • Object-Oriented Architecture • SQL • Authentication Systems
-```
-
-## 🎨 Design & Creative Work
-```text
-UI/UX • Branding • Digital Product Design • Motion Effects • Modern Layouts
-```
-
----
-
-# 🚀 Tech Stack (Stylized)
-
-<table align="center">
-<tr>
-<td align="center"><strong>Frontend</strong></td>
-<td align="center"><strong>Backend</strong></td>
-<td align="center"><strong>Tools</strong></td>
-</tr>
-<tr>
-<td align="center">HTML5<br>CSS3<br>JavaScript<br>React<br>Tailwind</td>
-<td align="center">Java<br>Spring Boot<br>REST API<br>MySQL</td>
-<td align="center">Git & GitHub<br>Figma<br>VS Code<br>Linux</td>
-</tr>
-</table>
-
----
-
-# 🌟 Highlighted Features About Me  
-✔ High attention to detail  
-✔ Creative UI/UX vision  
-✔ Clean code structure  
-✔ Problem-solving mindset  
-✔ Ability to build production-ready projects  
-✔ Love for animated, modern interfaces  
-
----
-
-# 🔥 What I Build
-- Modern landing pages  
-- Advanced front-end systems  
-- Full stack applications  
-- Admin panels  
-- Rest APIs  
-- Custom UI kits  
-- Digital products for developers  
-
----
-
-# 📊 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhuraCode&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhuraCode&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Technical+Instructor;Founder+of+AhuraCode;Building+Clean+%26+Modern+Applications;Coding+With+Passion+and+Precision" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhuraCode&layout=compact&theme=tokyonight"/>
+  <strong>Creating modern software, teaching clean code, and developing high-performance applications.</strong>
 </p>
 
+<br>
+
+<!-- ──────────────────────────────── ABOUT ME ──────────────────────────────── -->
+
+## ⚡ About Me
+
+I am **Ahura**, a full-stack developer and instructor with years of experience building  
+high-performance, scalable, and visually refined digital products.
+
+My main focus is producing **clean, maintainable, enterprise-grade code** and  
+teaching modern software engineering with an emphasis on **clarity, architecture,  
+and real-world practices**.
+
+I build:
+
+- Modern web applications  
+- High-performance backend systems  
+- Scalable APIs  
+- Teaching materials & advanced programming courses  
+- Full commercial projects for clients  
+
 ---
 
-# 🎨 Featured Projects  
-Below are some of my highlighted works (more in repo section):
+<!-- ──────────────────────────────── SKILLS ──────────────────────────────── -->
 
-### 1. **Premium Frontend Templates**  
-Beautiful UI, modern layout, engaging animations.
+## 🧠 Core Skills & Expertise
 
-### 2. **Full-Stack Management System (Java + Spring)**  
-Robust architecture, secure authentication, scalable modules.
+### **Frontend Development**
+| Tech | Level |
+|------|-------|
+| React / Next.js | Advanced |
+| TypeScript | Advanced |
+| TailwindCSS | Advanced |
+| UI/UX Optimization | Professional |
 
-### 3. **Creative Digital UI Packs**  
-Designed for developers building beautiful modern websites.
+### **Backend Development**
+| Tech | Level |
+|------|-------|
+| Node.js / Express | Expert |
+| NestJS | Advanced |
+| PHP / Laravel | Advanced |
+| Python | Intermediate |
+
+### **Databases**
+| System | Level |
+|--------|-------|
+| PostgreSQL | Advanced |
+| MySQL | Advanced |
+| MongoDB | Intermediate |
+| Redis | Intermediate |
+
+### **Tools & DevOps**
+| Tool | Area |
+|------|-------|
+| Docker | Containerization |
+| Nginx | Deployment |
+| Linux | Server Management |
+| CI/CD | Automation |
 
 ---
 
-# 🎯 My Goals  
-- Build high-quality open-source tools  
-- Grow AhuraCode into a premium resource hub  
-- Deliver world-class digital products  
-- Share knowledge with developers  
+<!-- ──────────────────────────────── PROJECTS ──────────────────────────────── -->
+
+## 🚀 Featured Projects
+
+### **AhuraCode Platform**
+A full educational & production-grade platform built with modern, clean, scalable architecture.
+
+### **Full-Stack Management System**
+A large-scale admin dashboard with complete CRUD, authentication, and modular architecture.
+
+### **Custom Frontend UI Library**
+A tailored UI system with reusable components based on TailwindCSS + React.
 
 ---
 
-# 📮 Contact
+<!-- ──────────────────────────────── WHAT I OFFER ──────────────────────────────── -->
+
+## 🧩 Services & What I Do
+
+- Full-Stack Development  
+- Modern Frontend Architecture  
+- Clean Backend Engineering  
+- Building production-ready applications  
+- Technical mentoring & teaching  
+- Performance optimization  
+- Code refactoring & architecture upgrades  
+
+---
+
+<!-- ──────────────────────────────── CONTACT ──────────────────────────────── -->
+
+## 📬 Contact Me
+
+If you want to work together, collaborate, or request a project:
+
+- Website: **ahuracode.ir**  
+- Instagram: **@ahuracode**  
+- Email: **contact@ahuracode.ir**  
+
+I respond quickly and professionally.
+
+---
+
+<!-- ──────────────────────────────── FOOTER WAVE ──────────────────────────────── -->
+
 <p align="center">
-  <a href="https://ahuracode.ir">
-    <img src="https://img.shields.io/badge/Website-Visit%20Now-blue?style=for-the-badge"/>
-  </a>
-  <a href="mailto:info@ahuracode.ir">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/AhuraCode">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/ahuracode/assets/main/wave-footer-fancy.svg" />
 </p>
 
----
-
-# ⚡ Footer
 <p align="center">
-  <strong>© 2025 AhuraCode — Crafted with passion, precision and creativity.</strong><br>
-  <sub>Always evolving. Always building something new.</sub>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/DtE1K3I.png" width="70%">
+  <strong>Made with passion, discipline, and clean architecture.</strong>
 </p>
