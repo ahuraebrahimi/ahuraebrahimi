@@ -1,96 +1,205 @@
-<!-- ====================================== -->
-<!--      AHURA EBRAHIMI – Enhanced README     -->
-<!-- ====================================== -->
+<!-- ====================================================== -->
+<!-- 🔥 AHURA EBRAHIMI — ULTIMATE PROFESSIONAL GITHUB README 🔥 -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="coding-banner"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I’m **Ahura Ebrahimi**</h1>
-<h3 align="center">Full-Stack & Web Developer • Game Developer • Mobile App Creator • Founder of AhuraCode.ir</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#ff3c3c;">Ahura Ebrahimi</span></h1>
+<h3 align="center">Full-Stack Developer • Game Developer • Android App Creator • Founder of AhuraCode.ir</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQ6n57Bs/giphy.gif" width="150" style="border-radius:50%;" alt="profile-gif"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQ6n57Bs/giphy.gif" width="150" style="border-radius:50%; border:4px solid #ff3c3c;" />
 </p>
 
 ---
 
-## 🌍 About Me
-I’m Ahura Ebrahimi — starting out with visual tools like Scratch & App Inventor, today I build full-fledged websites, mobile apps and games. :contentReference[oaicite:1]{index=1}  
-My main technologies include Python, Java, HTML/CSS/JavaScript, WordPress, and game-engines like Game Maker and Pygame. :contentReference[oaicite:2]{index=2}  
-I founded **AhuraCode.ir**, a platform through which I deliver bespoke web and software solutions — always focusing on **performance**, **security**, **scalability**, and **beautiful design**. :contentReference[oaicite:3]{index=3}
+# 🚀 About Me
+
+I'm **Ahura**, a creative and passionate multi-field developer from Iran.  
+I started my journey with visual tools like **Scratch**, **App Inventor** and **Game Maker**,  
+and over the years I evolved into a **web developer, mobile creator and designer**.
+
+I founded **AhuraCode.ir**, where I build:
+
+- ⚡ Modern & responsive websites  
+- ⚡ Android applications with App Inventor / Kodular  
+- ⚡ WordPress websites with custom themes  
+- ⚡ 2D games using Python & Game Maker  
+- ⚡ Fast backend systems using Python & Java  
+
+🏆 I focus on combining **clean code**, **premium design**, **high performance** and **smart features**.  
+💡 My mission is to help businesses & creators build digital products that **grow and scale**.
 
 ---
 
-## 🧠 Skills & Technologies
-| Area                          | Tools & Languages                                                             |
-|-------------------------------|------------------------------------------------------------------------------|
-| **Frontend / Web**            | HTML5, CSS3, JavaScript, Responsive Layouts                                  |
-| **Backend / Full-Stack**      | Python (Django/Flask), Java, REST APIs                                       |
-| **CMS / WordPress**           | Custom Themes, Plugins, Site Optimization                                    |
-| **Mobile Development**        | App Inventor, Kodular, Android Apps                                          |
-| **Game Development**          | Pygame, Game Maker, Scratch                                                   |
-| **Tools & Best Practices**    | Git/GitHub, VS Code, Code Review, Performance & Security Optimization        |
+# 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,bootstrap,django,androidstudio,wordpress,git,github,vscode,linux" />
+</p>
+
+---
+
+# 🧩 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="300" alt="code-in-action"/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+### 🟥 Shalil Leather Store  
+<img src="https://ahuracode.ir/wp-content/uploads/2024/10/shalil.png" width="100%" style="border-radius: 15px;" />
+<p>Luxury red-theme ecommerce website built for selling premium leather gift sets.</p>
+
+</td>
+<td align="center" width="33%">
+  
+### 🟦 Snake Game  
+<img src="https://media.giphy.com/media/2kYo5G4x3j7le/giphy.gif" width="100%" style="border-radius: 15px;" />
+<p>A retro snake game built with Python + Pygame.</p>
+
+</td>
+<td align="center" width="33%">
+
+### 🟩 Rubik Cube App  
+<img src="https://media.giphy.com/media/WrNf5QdS6aVnO/giphy.gif" width="100%" style="border-radius: 15px;" />
+<p>Android application built with App Inventor for cube solving & algorithms.</p>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🏗️ What I Build
-- Custom websites with modern UI and strong backend logic.  
-- E-commerce platforms that merge design and commerce.  
-- Interactive mobile apps and Android tools.  
-- 2D games and playful experiences for web/mobile.  
-- WordPress systems that don’t just look good — perform well.
+# 🏅 Certifications (Card Style)
 
----
-
-## 🧾 Certifications & Achievements
-- CS50 — Harvard University :contentReference[oaicite:4]{index=4}  
-- Web Development (Front-end) — Starcoach :contentReference[oaicite:5]{index=5}  
-- Python Development — Iran Digital :contentReference[oaicite:6]{index=6}  
-- Game Design with Scratch & Game Maker :contentReference[oaicite:7]{index=7}  
-
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=radical" alt="github-stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=radical" alt="github-streak"/>
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=radical" alt="top-languages"/>
-</p>
-
----
-
-## 🎮 Fun Coding GIFs  
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ6ER5ZVcx1j6/giphy.gif" width="200" alt="fun-code1"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="fun-code2"/>
-  <img src="https://media.giphy.com/media/5wWf7 G nnK8pUj4xl0/giphy.gif" width="200" alt="fun-code3"/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="CERT_IMAGE_1" width="100%" style="border-radius:15px;" /><br>
+<b>CS50 — Harvard University</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_2" width="100%" style="border-radius:15px;" /><br>
+<b>Python Development — Iran Digital</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_3" width="100%" style="border-radius:15px;" /><br>
+<b>Front-End — Starcoach Academy</b>
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<img src="CERT_IMAGE_4" width="100%" style="border-radius:15px;" /><br>
+<b>Scratch & Game Design</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_5" width="100%" style="border-radius:15px;" /><br>
+<b>App Inventor & Android Development</b>
+</td>
+
+<td width="33%" align="center">
+<img src="CERT_IMAGE_6" width="100%" style="border-radius:15px;" /><br>
+<b>Kodular App Development</b>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🎯 My Mission & Vision  
-I believe a website is *not just a digital presence* — it’s a **growth engine**. At AhuraCode, I build solutions that:  
-- Scale as your business grows  
-- Are optimized for performance from day one  
-- Are secure and maintainable  
-- Reflect your brand identity uniquely  
-:contentReference[oaicite:8]{index=8}  
+# 🧩 Extra Sections (New)
+
+## 🎨 My Design Philosophy
+I believe that a great interface must be:
+- Clean  
+- Fast  
+- Minimal  
+- Memorable  
+- User-focused  
+- Functional on every screen  
+
+## 🖥️ What I’m Working On
+- New premium ecommerce template  
+- A modern leather-store UI kit  
+- An AI-powered web component system  
+- A full Android utility app  
+- A 2D indie game with levels  
 
 ---
 
-## 📬 Let’s Connect  
-- 🌐 Website: [ahuracode.ir](https://www.ahuracode.ir) :contentReference[oaicite:9]{index=9}  
-- 📧 Email: ahuracodes@gmail.com :contentReference[oaicite:10]{index=10}  
-- 💼 LinkedIn: [Ahura Ebrahimi](https://www.linkedin.com/in/ahura-ebrahimi-923948383/) :contentReference[oaicite:11]{index=11}  
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ahuraebrahimi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-Thank you for stopping by! ⭐ Feel free to explore my repositories, star what you like and drop a message if you’d like to collaborate.  
-*— Ahura*
+# 🔥 Cool Developer GIFs
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVy4/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/26FeVWx2p1E0H2O1u/giphy.gif" width="250" />
+</p>
+
+---
+
+# 🎯 Goals for 2025-2026
+
+- 🚀 Publish 3 Android apps  
+- 🧵 Create 5 open-source tools  
+- 🎮 Release a full 2D indie game  
+- 🌐 Build 10 premium websites  
+- 🎓 Launch my first online course  
+- 🔥 Grow **AhuraCode.ir** into a full tech brand  
+
+---
+
+# 🛠️ Dev Tools I Love
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,ps,pr" />
+</p>
+
+---
+
+# 🧊 Fun Zone
+
+### 🧩 Random Dev Quote  
+> “First, solve the problem. Then, write the code.”
+
+### 🎞️ Random Cool GIF  
+<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" />
+</p>
+
+---
+
+# 📬 Contact Me
+
+- 🌐 Website: https://www.ahuracode.ir  
+- 📧 Email: ahuracodes@gmail.com  
+- 💼 LinkedIn: Ahura Ebrahimi  
+- 🧊 Discord: Your Username  
+
+---
+
+<p align="center"><b>⭐ Thanks for stopping by! Don't forget to star the repos you enjoy!</b></p>
