@@ -3,15 +3,13 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="PLACEHOLDER_BANNER_GIF" width="100%" alt="banner"/>
+  <img src="https://uploadkon.ir/uploads/efda04_25ahura.png" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#e63946;">Ahura Ebrahimi</span></h1>
 <h3 align="center">Web Developer • Game & Mobile App Creator • Founder of AhuraCode.ir</h3>
 
-<p align="center">
-  <img src="https://uploadkon.ir/uploads/3f4f04_25Gemini-Generated-Image-3lqlmx3lqlmx3lql.png" width="160" style="border-radius:100%; border:4px solid #e63946;" alt="profile"/>
-</p>
+
 
 ---
 
