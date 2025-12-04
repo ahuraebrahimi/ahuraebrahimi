@@ -66,6 +66,7 @@ Through **AhuraCode.ir**, I work on:
 
 ## 🏅 Certifications (Card Style)
 
+
 <div align="center">
 
 <table>
@@ -84,14 +85,17 @@ Through **AhuraCode.ir**, I work on:
 </td>
 </tr>
 <tr>
-
+<td align="center" width="33%">
+  <img src="https://uploadkon.ir/uploads/8faf04_25scratch.jpeg" width="200" style="border-radius:8px;"><br>
+  <b>Scratch & Game Design</b>
+</td>
 <td align="center" width="33%">
   <img src="https://uploadkon.ir/uploads/7ff404_25app-inventor.jpeg" width="200" style="border-radius:8px;"><br>
   <b>App Inventor / Android Dev</b>
 </td>
 <td align="center" width="33%">
-  <img src="https://uploadkon.ir/uploads/8faf04_25scratch.jpeg" width="200" style="border-radius:8px;"><br>
-  <b>Scratch & Game Design</b>
+  <img src="https://uploadkon.ir/uploads/838d04_25game-maker.jpeg" width="200" style="border-radius:8px;"><br>
+  <b>Game Maker & Game Design</b>
 </td>
 </tr>
 </table>
