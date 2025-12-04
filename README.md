@@ -99,34 +99,12 @@ Through **AhuraCode.ir**, I work on:
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahuraebrahimi&theme=default" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahuraebrahimi&theme=default" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahuraebrahimi&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahuraebrahimi&theme=tokyonight&langs_count=10" width="400" />
 </p>
-
-## 📊 GitHub Analytics (Live)
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&count_private=true&theme=tokyonight" width="48%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=tokyonight&langs_count=10" width="48%" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak / Activity -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=tokyonight" width="48%" />
-  
-  <!-- Profile Summary Cards (extra info) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahuraebrahimi&theme=tokyonight" width="48%" />
-</p>
-
-
----
 
 ## 🎬 Developer GIFs
 
