@@ -3,14 +3,14 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ahura%20Code&fontSize=70&fontColor=ffffff&color=gradient&customColorList=2,4,9,12&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Ahura%20Code&fontSize=70&fontColor=ffffff&color=gradient&customColorList=2,4,9,12&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=500&color=A778FF&center=true&vCenter=true&width=950&lines=Ahura+Ebrahimi+—+Software+Developer;Web+%2F+Mobile+Developer;Python+%7C+Java+Programmer;Game+Developer+%7C+Creative+Coder;Welcome+to+My+Digital+Universe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A778FF&center=true&vCenter=true&width=950&lines=Hello+There!+I+am+Ahura+Ebrahimi;Full-Stack+Developer+%7C+Python+%2F+Java;Web+%2F+Mobile+%2F+Game+Developer;Turning+Ideas+into+Code" />
 </p>
 
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- ======================== ABOUT ME ======================== -->
@@ -19,103 +19,39 @@
 <h1 align="center">🌟 About Me</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Developer-Ahura_Code-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github.com/USERNAME.png" width="180" style="border-radius:50%; box-shadow: 0 0 30px #a873ff;" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/USERNAME.png" width="200" style="border-radius: 50%; box-shadow: 0px 0px 30px #a873ff;" />
+<p align="center" style="max-width:800px;">
+  👋 Hi! I’m <strong>Ahura Ebrahimi</strong>, a passionate developer creating amazing Web, Mobile & Game experiences.  
+  I love <strong>clean code</strong>, <strong>interactive UI</strong>, and building <strong>tools that simplify life</strong>.  
+  Always exploring new technologies and pushing the limits of creativity! 🚀
 </p>
 
-<p align="center">
-  <strong>Hello! I’m Ahura Ebrahimi</strong>, a passionate full-stack developer with expertise in Web, Mobile, Game Development, Python & Java.  
-  I love clean code, interactive UI, automation, and turning ideas into reality! 🚀
-</p>
-
-<br><br>
-
-<!-- ========================================================= -->
-<!-- ====================== INFORMATION BOX =================== -->
-<!-- ========================================================= -->
-
-<h1 align="center">📘 Quick Information</h1>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 🎓 Education  
-Independent Developer & Student  
-
-</td>
-<td align="center">
-
-### 🌐 Website  
-[www.ahuracode.ir](https://www.ahuracode.ir)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 📧 Email  
-[ahuracodes@gmail.com](mailto:ahuracodes@gmail.com)
-
-</td>
-<td align="center">
-
-### 📞 Phone  
-+98 904 685 5918
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- ========================== SKILLS ======================== -->
 <!-- ========================================================= -->
 
-<h1 align="center">💼 Skills & Technologies</h1>
+<h1 align="center">💻 Skills & Technologies</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS3-28A9E0?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /> 
+  <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-28A9E0?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Bootstrap-7729E6?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-4CBB17?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameMaker_Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/GameMaker_Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Pygame-4CBB17?style=for-the-badge&logo=python&logoColor=white" /> 
-  <br>
-  <img src="https://img.shields.io/badge/App_Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/App_Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-<br><br>
-
-<!-- ========================================================= -->
-<!-- ======================== WHAT I DO ======================= -->
-<!-- ========================================================= -->
-
-<h1 align="center">🚀 What I Do</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Web_Development-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mobile_Development-9C27B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Game_Development-7E57C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python_Automation-9575CD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java_Projects-BA68C8?style=for-the-badge" />
-</p>
-
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- ==================== FEATURED PROJECTS =================== -->
@@ -127,14 +63,14 @@ Independent Developer & Student
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **🐍 Snake Game** | Fast, smooth gameplay with Pygame | Python, Pygame |
+| **🐍 Snake Game** | Fast & smooth gameplay | Python, Pygame |
 | **🧩 Rubik’s Cube Solver** | Mobile learning & solver app | App Inventor |
 | **🌤 Weather App** | Beautiful, API-powered UI | HTML, CSS, JS |
 | **🛒 Shalil Store** | Modern eCommerce website | WordPress |
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- ===================== GITHUB STATISTICS ================== -->
@@ -151,22 +87,7 @@ Independent Developer & Student
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&bg_color=1a1a1a&color=BA68C8&line=BA68C8&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-<br><br>
-
-<!-- ========================================================= -->
-<!-- ============================ FACTS ======================= -->
-<!-- ========================================================= -->
-
-<h1 align="center">🌈 Fun Facts & Highlights</h1>
-
-<p align="center">
-  ⭐ 103+ Completed Projects  <br>
-  ⭐ 35+ Happy Clients  <br>
-  ⭐ 10 Awards for Coding & Creativity  <br>
-  ⭐ 100+ Cups of Coffee fueling development ☕
-</p>
-
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- ============================ CONTACT ===================== -->
@@ -182,7 +103,7 @@ Independent Developer & Student
 <strong>GitHub:</strong> [USERNAME](https://github.com/USERNAME)  
 </p>
 
-<br><br>
+<br>
 
 <!-- ========================================================= -->
 <!-- ======================== FOOTER ========================== -->
