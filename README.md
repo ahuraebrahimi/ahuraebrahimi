@@ -1,5 +1,6 @@
 <div id="top" align="center">
   
+  <img src="https://via.placeholder.com/1200x200/2C3E50/FFFFFF?text=Zarina's+Elite+Developer+Profile" alt="Zarina's Profile Banner" style="width:100%; max-width:1200px;">
   <p align="center">
     <a href="README.md" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/EN-English-111111?style=for-the-badge&logo=react&logoColor=59B0FF" alt="English Version" />
@@ -29,7 +30,18 @@
 
 ## 👤 About Me
 
-> **Zarina** is a results-driven **Front-End Developer** specializing in creating highly interactive and accessible user interfaces. With a strong foundation in modern JavaScript and the React ecosystem, I am currently dedicated to expanding my expertise into the **Full-Stack** domain, focusing on robust back-end development with Node.js and database management. My passion lies in transforming complex requirements into clean, efficient, and beautiful web solutions.
+<table width="100%">
+  <tr>
+    <td width="30%" valign="top">
+      <img src="https://via.placeholder.com/250/2C3E50/FFFFFF?text=Zarina" alt="Zarina's Profile Picture" style="border-radius:50%; width:200px; height:200px; object-fit:cover; margin-bottom: 20px;">
+      </td>
+    <td width="70%" valign="top">
+      <p style="font-size:1.1em; line-height:1.6;">
+        > **Zarina** is a results-driven **Front-End Developer** specializing in creating highly interactive and accessible user interfaces. With a strong foundation in modern JavaScript and the React ecosystem, I am currently dedicated to expanding my expertise into the **Full-Stack** domain, focusing on robust back-end development with Node.js and database management. My passion lies in transforming complex requirements into clean, efficient, and beautiful web solutions that provide exceptional user experiences. I thrive in dynamic environments and am committed to continuous learning and delivering clean, efficient, and well-documented code.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -152,11 +164,13 @@ Connect with me across platforms to discuss opportunities or collaborations.
 <div align="center">
   
   <a href="#top" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-333333?style=flat-square&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
+    <img src="https://img.shields.io/badge/Back%20to%20Top-333333?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top Button" />
   </a>
   
   <br>
   
-  <small>Built with ❤️ and code by Zarina | &copy; 2025</small>
+  <p style="font-size:0.9em; color:#888;">
+    &copy; 2025 Zarina. All Rights Reserved. | Crafted with precision and passion for modern web experiences.
+  </p>
 
 </div>
