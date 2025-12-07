@@ -98,6 +98,21 @@ Through **AhuraCode.ir**, I work on:
   <b>Game Maker & Game Design</b>
 </td>
 </tr>
+  //
+  <tr>
+<td align="center" width="33%">
+  <img src="https://uploadkon.ir/uploads/2f2807_25Screenshot-2025-12-06-114108.png" width="200" style="border-radius:8px;"><br>
+  <b>Responsive Web Design | freeCodeCamp</b>
+</td>
+<td align="center" width="33%">
+  <img src="https://uploadkon.ir/uploads/7f3307_25Screenshot-2025-12-06-114159.png" width="200" style="border-radius:8px;"><br>
+  <b> A2 English for Developers | freeCodeCamp</b>
+</td>
+<td align="center" width="33%">
+  <img src="" width="200" style="border-radius:8px;"><br>
+  <b>JavaScript | freeCodeCamp</b>
+</td>
+</tr>
 </table>
 
 </div>
