@@ -2,9 +2,6 @@
 <!-- 🔥 AHURA EBRAHIMI — REALISTIC GITHUB README 🔥 -->
 <!-- ====================================================== -->
 
-<p align="center">
-  <img src="https://uploadkon.ir/uploads/efda04_25ahura.png" width="100%" alt="banner"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#e63946;">Ahura Ebrahimi</span></h1>
 <h3 align="center">Web Developer • Game & Mobile App Creator • Founder of AhuraCode.ir</h3>
