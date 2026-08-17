@@ -1,5 +1,5 @@
 <!-- ============================================================= -->
-<!-- 🔥 AHURA EBRAHIMI — ULTIMATE README (CENTERED + STYLISH) 🔥  -->
+<!-- 🔥 AHURA EBRAHIMI — PROFESSIONAL README (FULLY CENTERED) 🔥  -->
 <!-- ============================================================= -->
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="300" style="border-radius: 24px;" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="280" style="border-radius: 24px;" />
 </p>
 
 <p align="center">
@@ -49,16 +49,15 @@
 </p>
 
 <p align="center">
-
-| **Category**              | **Technologies**                                          |
-|---------------------------|-----------------------------------------------------------|
-| Frontend / Web            | HTML, CSS, JavaScript, Bootstrap, Responsive Design       |
-| CMS / WordPress           | Custom Themes, Plugins, SEO Optimization                  |
-| Backend / Programming     | Python (basic), Java (learning)                           |
-| Mobile / Android          | App Inventor, Kodular                                     |
-| Game Dev                  | Scratch, Pygame                                           |
-| Dev Tools                 | Git, GitHub, VS Code                                      |
-
+  <table style="margin: auto; border-collapse: collapse; text-align: center;">
+    <tr><th>Category</th><th>Technologies</th></tr>
+    <tr><td>Frontend / Web</td><td>HTML, CSS, JavaScript, Bootstrap, Responsive Design</td></tr>
+    <tr><td>CMS / WordPress</td><td>Custom Themes, Plugins, SEO Optimization</td></tr>
+    <tr><td>Backend / Programming</td><td>Python (basic), Java (learning)</td></tr>
+    <tr><td>Mobile / Android</td><td>App Inventor, Kodular</td></tr>
+    <tr><td>Game Dev</td><td>Scratch, Pygame</td></tr>
+    <tr><td>Dev Tools</td><td>Git, GitHub, VS Code</td></tr>
+  </table>
 </p>
 
 ---
@@ -66,13 +65,24 @@
 ## 🎨 Featured Projects
 
 <p align="center">
-
-| Project | Description | Preview |
-|---------|-------------|---------|
-| **AhuraCode.ir** | Personal portfolio & service website | <img src="https://uploadkon.ir/uploads/4e0001_26Screenshot-2026-01-01-211246.png" width="200" style="border-radius:12px;" /> <br> [🔗 Visit](https://www.ahuracode.ir) |
-| **Shalyl.com** | E‑commerce for leather gift sets | <img src="https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png" width="200" style="border-radius:12px;" /> <br> [🔗 Visit](https://www.shalyl.com) |
-| **GitHub Template** | Website template hosted on GitHub | <img src="https://uploadkon.ir/uploads/fbd504_25Screenshot-2025-12-04-193104.png" width="200" style="border-radius:12px;" /> <br> [🔗 View](https://ahuraebrahimi.github.io/website/) |
-
+  <table style="margin: auto; border-collapse: collapse; text-align: center;">
+    <tr><th>Project</th><th>Description</th><th>Preview</th></tr>
+    <tr>
+      <td><b>AhuraCode.ir</b></td>
+      <td>Personal portfolio &amp; service website</td>
+      <td><img src="https://uploadkon.ir/uploads/4e0001_26Screenshot-2026-01-01-211246.png" width="180" style="border-radius:12px;" /><br><a href="https://www.ahuracode.ir">🔗 Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>Shalyl.com</b></td>
+      <td>E‑commerce for leather gift sets</td>
+      <td><img src="https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png" width="180" style="border-radius:12px;" /><br><a href="https://www.shalyl.com">🔗 Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>GitHub Template</b></td>
+      <td>Website template hosted on GitHub</td>
+      <td><img src="https://uploadkon.ir/uploads/fbd504_25Screenshot-2025-12-04-193104.png" width="180" style="border-radius:12px;" /><br><a href="https://ahuraebrahimi.github.io/website/">🔗 View</a></td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -80,21 +90,21 @@
 ## 🏅 Certificates
 
 <p align="center">
-  <table>
+  <table style="margin: auto; border-collapse: collapse; text-align: center;">
     <tr>
-      <td align="center"><img src="https://uploadkon.ir/uploads/89ba04_25photo20306055025.jpg" width="130" /><br><b>CS50 — Harvard</b></td>
-      <td align="center"><img src="https://uploadkon.ir/uploads/de4b04_25photo19087155980.jpg" width="130" /><br><b>Front-End — Starcoach</b></td>
-      <td align="center"><img src="https://uploadkon.ir/uploads/975e04_251757494420-default.png" width="130" /><br><b>Python — Iran Digital</b></td>
+      <td><img src="https://uploadkon.ir/uploads/89ba04_25photo20306055025.jpg" width="120" /><br><b>CS50 — Harvard</b></td>
+      <td><img src="https://uploadkon.ir/uploads/de4b04_25photo19087155980.jpg" width="120" /><br><b>Front-End — Starcoach</b></td>
+      <td><img src="https://uploadkon.ir/uploads/975e04_251757494420-default.png" width="120" /><br><b>Python — Iran Digital</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://uploadkon.ir/uploads/8faf04_25scratch.jpeg" width="130" /><br><b>Scratch & Game Design</b></td>
-      <td align="center"><img src="https://uploadkon.ir/uploads/7ff404_25app-inventor.jpeg" width="130" /><br><b>App Inventor</b></td>
-      <td align="center"><img src="https://uploadkon.ir/uploads/838d04_25game-maker.jpeg" width="130" /><br><b>Game Maker</b></td>
+      <td><img src="https://uploadkon.ir/uploads/8faf04_25scratch.jpeg" width="120" /><br><b>Scratch &amp; Game Design</b></td>
+      <td><img src="https://uploadkon.ir/uploads/7ff404_25app-inventor.jpeg" width="120" /><br><b>App Inventor</b></td>
+      <td><img src="https://uploadkon.ir/uploads/838d04_25game-maker.jpeg" width="120" /><br><b>Game Maker</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://uploadkon.ir/uploads/2f2807_25Screenshot-2025-12-06-114108.png" width="130" /><br><b>Responsive Web — fCC</b></td>
-      <td align="center"><img src="https://uploadkon.ir/uploads/7f3307_25Screenshot-2025-12-06-114159.png" width="130" /><br><b>A2 English — fCC</b></td>
-      <td align="center"><img src="https://uploadkon.ir/uploads/f4ab09_25جاوااسکریپت.png" width="130" /><br><b>JavaScript — fCC</b></td>
+      <td><img src="https://uploadkon.ir/uploads/2f2807_25Screenshot-2025-12-06-114108.png" width="120" /><br><b>Responsive Web — fCC</b></td>
+      <td><img src="https://uploadkon.ir/uploads/7f3307_25Screenshot-2025-12-06-114159.png" width="120" /><br><b>A2 English — fCC</b></td>
+      <td><img src="https://uploadkon.ir/uploads/f4ab09_25جاوااسکریپت.png" width="120" /><br><b>JavaScript — fCC</b></td>
     </tr>
   </table>
 </p>
@@ -104,12 +114,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=radical&count_private=true&hide_border=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=radical&langs_count=8&hide_border=true" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=radical&langs_count=8&hide_border=true" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=radical&hide_border=true" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=radical&hide_border=true" width="480" />
 </p>
 
 <p align="center">
@@ -133,8 +143,8 @@
 ## 🧩 Fun Facts About Me
 
 <p align="center">
-  🎮 I love retro gaming & game design<br>
-  🎨 I enjoy digital art & UI/UX sketching<br>
+  🎮 I love retro gaming &amp; game design<br>
+  🎨 I enjoy digital art &amp; UI/UX sketching<br>
   💻 I’m obsessed with trying new web technologies<br>
   📚 I spend my free time learning something new every day<br>
   🚀 I want to inspire other young people to start coding!
@@ -166,7 +176,5 @@
 ---
 
 <p align="center">
-  <font color="black">
-    ⭐ Thanks for visiting! Star the repos you like & contact me for collaboration! ⭐
-  </font>
+  <span style="color: black;">⭐ Thanks for visiting! Star the repos you like &amp; contact me for collaboration! ⭐</span>
 </p>
