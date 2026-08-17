@@ -41,9 +41,11 @@ I believe **age is just a number** when it comes to coding. I love turning creat
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,wordpress,git,github,vscode" />
-</p>
+</div>
+
+<div align="center">
 
 | **Category**              | **Technologies**                                          |
 |---------------------------|-----------------------------------------------------------|
@@ -54,9 +56,13 @@ I believe **age is just a number** when it comes to coding. I love turning creat
 | 🎮 Game Dev               | Scratch, Pygame                                           |
 | 🛠️ Dev Tools              | Git, GitHub, VS Code                                      |
 
+</div>
+
 ---
 
 ## 🎨 Featured Projects
+
+<div align="center">
 
 | Project | Description | Preview |
 |---------|-------------|---------|
@@ -64,9 +70,13 @@ I believe **age is just a number** when it comes to coding. I love turning creat
 | **Shalyl.com** | E‑commerce for leather gift sets | <img src="https://uploadkon.ir/uploads/2ac404_25Screenshot-2025-09-10-171133.png" width="200" style="border-radius:12px;" /> <br> [🔗 Visit](https://www.shalyl.com) |
 | **GitHub Template** | Website template hosted on GitHub | <img src="https://uploadkon.ir/uploads/fbd504_25Screenshot-2025-12-04-193104.png" width="200" style="border-radius:12px;" /> <br> [🔗 View](https://ahuraebrahimi.github.io/website/) |
 
+</div>
+
 ---
 
 ## 🏅 Certificates
+
+<div align="center">
 
 <table>
   <tr>
@@ -86,22 +96,24 @@ I believe **age is just a number** when it comes to coding. I love turning creat
   </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahuraebrahimi&show_icons=true&theme=radical&count_private=true&hide_border=true" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuraebrahimi&layout=compact&theme=radical&langs_count=8&hide_border=true" width="360" />
-</p>
+</div>
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahuraebrahimi&theme=radical&hide_border=true" width="500" />
-</p>
+</div>
 
-<p align="left">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahuraebrahimi&theme=radical&count_private=true" width="600" />
-</p>
+</div>
 
 ---
 
