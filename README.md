@@ -117,13 +117,9 @@ I believe **age is just a number** when it comes to coding. I love turning creat
 
 ---
 
-## 🎯 My Roadmap (2026)
+## 🎯 My goal 
 
-- ✅ Build 3 responsive websites  
-- ✅ Launch 2 Android apps  
-- 🔲 Create open-source tools for beginners  
-- 🔲 Develop a complete 2D indie game  
-- 🔲 Start a YouTube / tutorial series on AhuraCode  
+staying alive
 
 ---
 
