@@ -51,7 +51,7 @@ I believe **age is just a number** when it comes to coding. I love turning creat
 |---------------------------|-----------------------------------------------------------|
 | 🌐 Frontend / Web         | HTML, CSS, JavaScript, Bootstrap, Responsive Design       |
 | 🛒 CMS / WordPress        | Custom Themes, Plugins, SEO Optimization                  |
-| 🐍 Backend / Programming  | Python (basic), Java (learning)                           |
+| 🐍 Backend / Programming  | Python , Java (learning)                           |
 | 📱 Mobile / Android       | App Inventor, Kodular                                     |
 | 🎮 Game Dev               | Scratch, Pygame                                           |
 | 🛠️ Dev Tools              | Git, GitHub, VS Code                                      |
