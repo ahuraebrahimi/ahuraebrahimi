@@ -215,33 +215,7 @@ I worked on the website design, structure and WordPress/WooCommerce implementati
 
 </div>
 
----
 
-## 🏚️ Haunted House
-
-<img align="left" width="210" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-
-A small browser game based around a haunted house.
-
-The goal is simple:
-
-**Get inside → answer questions → survive → escape. 👻**
-
-Built as one of my experimental game projects.
-
-<br clear="both">
-
-<div align="center">
-
-<a href="https://github.com/ahuraebrahimi/Haunted-House">
-
-<img src="https://img.shields.io/badge/👻_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</div>
-
----
 
 # 🧰 My Toolbox
 
