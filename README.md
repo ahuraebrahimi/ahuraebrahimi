@@ -1,223 +1,150 @@
-<!-- ========================================================= -->
+<h2>
+  Hi, I'm Ahura! 👋
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
+</h2>
 
-<!--                 AHURA EBRAHIMI — README                   -->
+<img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="240">
 
-<!-- ========================================================= -->
+<p>
+  <em>
+    Developer & Creator 💻<br>
+    Founder of <a href="https://ahuracode.ir">AhuraCode.ir</a> 🚀<br>
+    Building websites, apps, games & experiments ✨
+  </em>
+</p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=900&color=18C89B&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ahura+Ebrahimi+%F0%9F%91%8B;Developer+%7C+Creator+%7C+Builder;I+turn+ideas+into+real+projects+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%92%9A" alt="Typing SVG" />
+<p>
+  <a href="https://ahuracode.ir">
+    <img src="https://img.shields.io/badge/AhuraCode-18C89B?style=flat-square&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://shalyl.com">
+    <img src="https://img.shields.io/badge/Shalyl-C79A5E?style=flat-square&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://github.com/ahuraebrahimi">
+    <img src="https://img.shields.io/github/followers/ahuraebrahimi?label=followers&style=flat-square&logo=github">
+  </a>
+</p>
 
 <br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90">
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ahuraebrahimi&label=PROFILE+VIEWS&color=18C89B&style=for-the-badge" />
-
-</div>
-
-<br>
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif">
-
-##  Hi, I'm Ahura!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55">
 
 <em>
-A young developer who enjoys turning random ideas into real things.
+<b>I love turning ideas into real projects.</b>
+<br>
+From websites and apps to games and experiments,
+I'm always building something new.
 </em>
-
-I'm **Ahura Ebrahimi**, a developer and creator behind **AhuraCode**.
-
-I build websites, apps, games and experiments while constantly learning new technologies.
-
-I don't really like staying inside one technology.
-
-If I get an idea...
-
-**I build it. 🚀**
 
 <br clear="both">
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="55">
-
-### A little more about me...
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45">
-
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
 ```javascript
 const ahura = {
 
-    name: "Ahura Ebrahimi",
-    age: 14,
+  name: "Ahura Ebrahimi",
+  age: 14,
 
-    role: [
-        "Web Developer",
-        "Software Creator",
-        "Game Developer"
-    ],
+  role: [
+    "Web Developer",
+    "Software Creator",
+    "Game Developer"
+  ],
 
-    code: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "Java"
-    ],
+  code: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "Java"
+  ],
 
-    web: [
-        "React",
-        "Next.js",
-        "Bootstrap",
-        "WordPress"
-    ],
+  technologies: [
+    "React",
+    "Next.js",
+    "Bootstrap",
+    "WordPress",
+    "Git",
+    "GitHub"
+  ],
 
-    gameDev: [
-        "Godot",
-        "GameMaker",
-        "Pygame",
-        "Scratch"
-    ],
+  gameDev: [
+    "Godot",
+    "GameMaker",
+    "Pygame",
+    "Scratch"
+  ],
 
-    mobile: [
-        "App Inventor"
-    ],
+  currentlyLearning: [
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Backend Development"
+  ],
 
-    currentlyLearning: [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Backend Development"
-    ],
+  building: "AhuraCode.ir",
 
-    building: "AhuraCode.ir",
-
-    favoriteActivity:
-        "turning ideas into projects 🚀"
+  funFact:
+    "I usually have more ideas than time."
 };
 ```
 
-<br>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80">
 
-<div align="center">
+### 🚀 What I enjoy building
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70">
-
-**"Code it. Break it. Fix it. Make it better."**
-
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="70">
-
-</div>
-
----
-
-## 🚀 What I Build
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80">
-
-### 🌐 Web
-
-Websites, dashboards, interfaces and full web projects.
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://media.giphy.com/media/1FbU0sE3p1S8/giphy.gif" width="80">
-
-### 🎮 Games
-
-Small games, experiments and interactive ideas.
-
-</td>
-
-<td align="center" width="33%">
-
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="80">
-
-### 🤖 AI
-
-Learning AI & Machine Learning and experimenting with models.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌟 My Projects
-
-## 🟢 AhuraCode
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AhuraCode.ir-18C89B?style=for-the-badge&logo=googlechrome&logoColor=white">
-
-</div>
-
-**AhuraCode** is my own programming and digital-project platform.
-
-I use it to build and share:
-
-* 💻 Programming projects
-* 🌐 Websites
-* 📦 Digital products
-* 📚 Programming content
-* 🧪 Experiments
-
-<br>
-
-<div align="center">
-
-<a href="https://ahuracode.ir">
-
-<img src="https://img.shields.io/badge/🌐_Visit_AhuraCode.ir-18C89B?style=for-the-badge&logoColor=white">
-
-</a>
-
-</div>
-
----
-
-## 🛍️ Shalyl
-
-<img align="right" width="220" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-A real-world e-commerce website I built for **Shalyl**, focused on leather gifts and handmade products.
-
-I worked on the website design, structure and WordPress/WooCommerce implementation.
-
-**Stack:**
-
-`WordPress` `WooCommerce` `Elementor` `CSS`
+* 🌐 Websites & Web Applications
+* 🎨 UI / UX experiments
+* 📱 Mobile Applications
+* 🎮 Games & Interactive Projects
+* 🤖 AI & Machine Learning experiments
+* 🧪 Random ideas that turn into projects
 
 <br clear="both">
 
-<div align="center">
+---
 
-<a href="https://shalyl.com">
+## 🌟 Some of my projects
 
-<img src="https://img.shields.io/badge/🌐_Visit_Shalyl.com-C79A5E?style=for-the-badge&logo=googlechrome&logoColor=white">
+### 💚 AhuraCode
 
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180">
+
+**AhuraCode** is my own programming and digital-project platform.
+
+I use it to build and share programming projects, websites, digital products and experiments.
+
+<br>
+
+<a href="https://ahuracode.ir">
+<img src="https://img.shields.io/badge/Visit_AhuraCode.ir-18C89B?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-</div>
+<br clear="both">
 
+---
 
+### 🛍️ Shalyl
 
-# 🧰 My Toolbox
+<img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="180">
+
+A real-world e-commerce website I built for **Shalyl**, focused on leather gifts and handmade products.
+
+Built with WordPress, WooCommerce, Elementor and custom styling.
+
+<br>
+
+<a href="https://shalyl.com">
+<img src="https://img.shields.io/badge/Visit_Shalyl.com-C79A5E?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<br clear="both">
+
+---
+
+## 🧰 My toolbox
 
 <div align="center">
 
@@ -225,27 +152,19 @@ I worked on the website design, structure and WordPress/WooCommerce implementati
 
 </div>
 
-<br>
+---
+
+## 🧠 Currently learning
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="65">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=18C89B&center=true&vCenter=true&width=650&lines=Machine+Learning;Artificial+Intelligence;Backend+Development;Advanced+Web+Development;Game+Development">
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=700&color=18C89B&center=true&vCenter=true&width=700&lines=Machine+Learning;Artificial+Intelligence;Backend+Development;Advanced+Web+Development;Game+Development" />
-
-</div>
-
----
-
-# 🎯 My Developer Journey
+## 🎯 My developer journey
 
 ```text
 Scratch
@@ -266,44 +185,38 @@ Next.js
    ↓
 Machine Learning
    ↓
-        ??? 🚀
+        What's next? 🚀
 ```
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
-
-</div>
 
 ---
 
-# ⚡ Random Facts
+## ⚡ Random facts about me
 
-<img align="right" width="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150">
 
 ```text
-💻 I really enjoy building things from scratch.
+💻 I love building things from scratch.
 
-🎮 I like game development.
+🎮 I enjoy game development.
 
-🌐 Web development is one of my favorite things.
+🌐 Web development is one of my favorite areas.
 
 🐍 Python is one of my favorite languages.
 
-🤖 I'm currently exploring AI & ML.
+🤖 I'm exploring AI & Machine Learning.
 
-🧪 I love experimenting with new technologies.
+🧪 I like experimenting with new technologies.
 
-🚀 I usually have more project ideas than time.
+🚀 I always have another project idea.
 
-🐛 Sometimes fixing one bug creates three more.
+🐛 Fixing one bug sometimes creates three more.
 ```
 
 <br clear="both">
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub
 
 <div align="center">
 
@@ -323,7 +236,7 @@ Machine Learning
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
 
@@ -333,7 +246,7 @@ Machine Learning
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahuraebrahimi/ahuraebrahimi/output/github-contribution-grid-snake.svg">
 
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ahuraebrahimi/ahuraebrahimi/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/ahuraebrahimi/ahuraebrahimi/output/github-contribution-grid-snake.svg">
 
 </picture>
 
@@ -341,48 +254,42 @@ Machine Learning
 
 ---
 
-# 🌐 Find Me
+## 🌐 Find me
 
 <div align="center">
 
 <a href="https://ahuracode.ir">
-
-<img src="https://img.shields.io/badge/Website-AhuraCode-18C89B?style=for-the-badge&logo=googlechrome&logoColor=white">
-
+<img src="https://img.shields.io/badge/AhuraCode-18C89B?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://shalyl.com">
-
-<img src="https://img.shields.io/badge/Website-Shalyl-C79A5E?style=for-the-badge&logo=googlechrome&logoColor=white">
-
+<img src="https://img.shields.io/badge/Shalyl-C79A5E?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://github.com/ahuraebrahimi">
-
-<img src="https://img.shields.io/badge/GitHub-ahuraebrahimi-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="mailto:ahuracodes@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="70">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=18C89B&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%F0%9F%91%8B;Keep+building+%F0%9F%9A%80;Keep+learning+%F0%9F%A7%A0;See+you+in+another+repository+%F0%9F%92%9A" />
+<em>
+Thanks for visiting my profile! 💚
+</em>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18C89B,100:0F9674&height=120&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18C89B,100:0F9674&height=100&section=footer">
 
 </div>
